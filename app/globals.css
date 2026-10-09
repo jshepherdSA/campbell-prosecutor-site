@@ -1,26 +1,182 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@custom-variant dark (&:is(.dark *));
+
+/* Brand tokens. Source of truth: design-system.md. */
+@theme {
+  --color-navy-950: #030e30;
+  --color-navy-900: #05184d;
+  --color-navy-800: #022573;
+  --color-royal-600: #1c47b8;
+
+  --color-silver-400: #b4b4ad;
+  --color-silver-300: #cfcfc9;
+  --color-silver-200: #e2e2dd;
+  --color-silver-100: #efefeb;
+  --color-silver-50: #f7f7f4;
+
+  --color-bronze-700: #85592a;
+  --color-bronze-500: #b28859;
+  --color-bronze-400: #c9a377;
+
+  --color-ink: #0b1430;
+  --color-body: #2e3652;
+  --color-signal-700: #a3271f;
+
+  --shadow-raised: 0 12px 32px -12px rgb(3 14 48 / 0.25);
+
+  --animate-rise: rise 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  --animate-rings: rings 1.1s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  --animate-fade: fade 0.8s ease-out both;
+
+  @keyframes rise {
+    from {
+      opacity: 0;
+      transform: translateY(12px);
+    }
+  }
+  @keyframes rings {
+    from {
+      opacity: 0;
+      transform: scale(0.96);
+    }
+  }
+  @keyframes fade {
+    from {
+      opacity: 0;
+    }
+  }
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-libre-franklin);
+  --font-heading: var(--font-besley);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: var(--radius);
+  --radius-md: var(--radius);
+  --radius-lg: var(--radius);
+  --radius-xl: var(--radius);
+  --radius-2xl: var(--radius);
+  --radius-3xl: var(--radius);
+  --radius-4xl: var(--radius);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* shadcn semantic variables, pointed at the brand tokens. */
+:root {
+  --background: #ffffff;
+  --foreground: var(--color-body);
+  --card: #ffffff;
+  --card-foreground: var(--color-body);
+  --popover: #ffffff;
+  --popover-foreground: var(--color-body);
+  --primary: var(--color-navy-800);
+  --primary-foreground: #ffffff;
+  --secondary: var(--color-silver-100);
+  --secondary-foreground: var(--color-navy-800);
+  --muted: var(--color-silver-100);
+  --muted-foreground: #5a627d;
+  --accent: var(--color-silver-100);
+  --accent-foreground: var(--color-navy-800);
+  --destructive: var(--color-signal-700);
+  --border: var(--color-silver-200);
+  --input: var(--color-silver-300);
+  --ring: var(--color-royal-600);
+  --radius: 0.125rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+    scroll-behavior: smooth;
+    /* keeps in-page anchors clear of the sticky header */
+    scroll-padding-top: 6.5rem;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-size: 1rem;
+    line-height: 1.625;
+  }
+  @media (min-width: 48rem) {
+    body {
+      font-size: 1.0625rem;
+      line-height: 1.647;
+    }
+  }
+  h1,
+  h2,
+  h3 {
+    @apply font-heading text-navy-800;
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  ::selection {
+    background: var(--color-bronze-400);
+    color: var(--color-navy-950);
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-royal-600);
+    outline-offset: 2px;
+  }
+  /* on navy, the focus ring switches to bronze so it stays visible */
+  .on-dark :focus-visible {
+    outline-color: var(--color-bronze-400);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-delay: 0ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* The seal's lettering, flattened: tracked gothic capitals. */
+@utility eyebrow {
+  font-family: var(--font-libre-franklin), sans-serif;
+  font-size: 0.78125rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+@utility container-site {
+  margin-inline: auto;
+  width: 100%;
+  max-width: 76rem;
+  padding-inline: 1.5rem;
+  @media (min-width: 64rem) {
+    padding-inline: 2.5rem;
+  }
 }
