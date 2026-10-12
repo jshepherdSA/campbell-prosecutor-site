@@ -18,12 +18,14 @@ import {
 import { ButtonLink } from "@/components/button-link";
 import { SealRings } from "@/components/seal-rings";
 import { SectionHeading } from "@/components/section-heading";
+import { TextLink } from "@/components/text-link";
 import {
   Card,
   CardDescription,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import { caseSteps } from "@/lib/case-steps";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -59,13 +61,13 @@ const tasks: Task[] = [
     icon: HandHeartIcon,
     label: "understand my rights as a victim",
     detail: "What Kentucky law guarantees you.",
-    href: "/#victims",
+    href: "/victims",
   },
   {
     icon: RouteIcon,
     label: "see how a felony case works",
     detail: "From the charge to sentencing.",
-    href: "/#process",
+    href: "/prosecution",
   },
   {
     icon: SirenIcon,
@@ -106,33 +108,6 @@ const roles: Role[] = [
   },
 ];
 
-const steps: { title: string; body: string }[] = [
-  {
-    title: "Investigation and charge",
-    body: "Police investigate and file a charge, or the case is presented directly to the grand jury.",
-  },
-  {
-    title: "District Court",
-    body: "Most felony cases start in District Court, where a judge sets bond and decides at a preliminary hearing whether there is probable cause to send the case on.",
-  },
-  {
-    title: "Grand jury",
-    body: "Twelve citizens hear the evidence in private. If at least nine agree there is enough to proceed, they return an indictment.",
-  },
-  {
-    title: "Circuit Court",
-    body: "The defendant is arraigned before a Circuit Judge. Both sides exchange evidence and the court rules on motions. Many cases end here with a guilty plea.",
-  },
-  {
-    title: "Trial",
-    body: "At trial the Commonwealth must prove guilt beyond a reasonable doubt. A jury of twelve must agree unanimously on its verdict.",
-  },
-  {
-    title: "Sentencing",
-    body: "After a conviction or a guilty plea, the judge imposes the final sentence. Victims may give a statement about how the crime affected them.",
-  },
-];
-
 const rights: string[] = [
   "To be notified of the court proceedings in your case",
   "To be present at those proceedings",
@@ -170,7 +145,7 @@ function Hero() {
             Commonwealth.
           </p>
           <div className="mt-9 flex animate-rise flex-col gap-4 [animation-delay:210ms] sm:flex-row">
-            <ButtonLink href="/#victims" variant="accent" size="lg">
+            <ButtonLink href="/victims" variant="accent" size="lg">
               Victims &amp; Witnesses
               <ArrowRightIcon className="transition-transform duration-150 ease-out group-hover/button:translate-x-1" />
             </ButtonLink>
@@ -283,7 +258,10 @@ function Office() {
               </strong>{" "}
               Misdemeanors, traffic offenses and juvenile cases are prosecuted
               in District Court by the Campbell County Attorney, which is a
-              separate office.
+              separate office.{" "}
+              <TextLink href="/find-the-right-office">
+                See who handles what
+              </TextLink>
             </p>
           </div>
         </div>
@@ -371,7 +349,7 @@ function Process() {
           lead="A felony case passes through two courts and several stages before it is resolved. This is the usual order in Kentucky."
         />
         <ol className="mt-12 grid gap-x-8 gap-y-10 sm:grid-cols-2 lg:mt-16 lg:grid-cols-3 lg:gap-y-14">
-          {steps.map(({ title, body }, index) => (
+          {caseSteps.map(({ title, body }, index) => (
             <li key={title} className="border-t-2 border-navy-800 pt-6">
               <span
                 aria-hidden="true"
@@ -419,10 +397,10 @@ function Victims() {
           </p>
           <p className="mt-8">
             <Link
-              href="/#contact"
+              href="/victims"
               className="group inline-flex items-center gap-2 font-bold text-navy-800 underline decoration-bronze-500 decoration-2 underline-offset-[6px] hover:text-royal-600"
             >
-              How to reach the office
+              More for victims and witnesses
               <ArrowRightIcon
                 aria-hidden="true"
                 className="size-4 transition-transform duration-150 ease-out group-hover:translate-x-1"

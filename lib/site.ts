@@ -31,13 +31,19 @@ export const site = {
 
 export type NavItem = { label: string; href: string };
 
-/**
- * Until the inner pages are approved and built, each link points at the
- * matching section of the homepage.
- */
+/** Primary navigation. "The Office" and "Contact" are homepage sections. */
 export const nav: NavItem[] = [
   { label: "The Office", href: "/#office" },
-  { label: "How a Case Works", href: "/#process" },
-  { label: "Victims & Witnesses", href: "/#victims" },
+  { label: "Prosecution", href: "/prosecution" },
+  { label: "Victims & Witnesses", href: "/victims" },
+  { label: "Resources", href: "/resources" },
+  { label: "FAQ", href: "/faq" },
   { label: "Contact", href: "/#contact" },
+];
+
+/** Pages linked from the footer and from other pages, but not the header. */
+export const secondaryNav: NavItem[] = [
+  { label: "Find the Right Office", href: "/find-the-right-office" },
+  { label: "Help for Victims", href: "/victims/resources" },
+  { label: "Open Records", href: "/open-records" },
 ];

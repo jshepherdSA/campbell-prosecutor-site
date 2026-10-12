@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { SealRings } from "@/components/seal-rings";
-import { nav, site } from "@/lib/site";
+import { nav, secondaryNav, site } from "@/lib/site";
 
 export function SiteFooter() {
   return (
@@ -64,7 +64,7 @@ export function SiteFooter() {
         <nav aria-label="Footer" className="md:col-span-3">
           <h2 className="eyebrow font-sans text-white">Site</h2>
           <ul className="mt-3 text-[0.9375rem] leading-7">
-            {nav.map((item) => (
+            {[...nav, ...secondaryNav].map((item) => (
               <li key={item.href}>
                 <Link
                   href={item.href}

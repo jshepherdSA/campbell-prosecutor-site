@@ -6,8 +6,9 @@ shown in chat at the homepage gate and again at final handoff.
 
 Status key: [x] done · [~] pending (builds after homepage approval) · [ ] manual
 
-**Status as of 2026-10-07: homepage gate.** Only the homepage is built. Nothing
-below the gate has been started.
+**Status as of 2026-10-12: inner pages in progress.** The homepage and seven
+inner pages are built (see "Inner pages" below). The cookie banner, policy pages
+and standard site files have not been started.
 
 ## Auto-built by the skill (verify these rendered)
 
@@ -47,6 +48,42 @@ placeholder to be left on a live legal page.
 - [x] Favicon, Apple touch icon and Open Graph image generated from the seal
 - [x] Page metadata and `GovernmentOffice` structured data
 
+## Inner pages
+
+Built on 2026-10-12. The user asked for the resources and content of
+campbellcountyattorney.com, without Steve Franzen. That site belongs to the
+Campbell County Attorney, a separate office, so its services are not presented
+here as this office's own. All copy was written new; none was copied.
+
+- [x] `/prosecution` — felony classes, how a case moves, reporting, restitution
+- [x] `/victims` — victims' rights, what to expect, help, witnesses
+- [x] `/victims/resources` — hotlines and support organizations
+- [x] `/resources` — county, cities, law enforcement, courts, legal help
+- [x] `/find-the-right-office` — the County Attorney's services (traffic and
+      CATS, misdemeanors, child support, bad checks, delinquent taxes,
+      guardianship, Casey's Law, involuntary hospitalization, juvenile court),
+      each with who handles it and how to reach them
+- [x] `/faq` — common questions, with FAQ structured data
+- [x] `/open-records` — how to request records from this office
+- [x] Each page checked: lint, type-check and production build pass; one
+      `<h1>`; headings in order; no horizontal scroll at 320, 390, 768 or
+      1024px; internal links resolve; no mention of Steve Franzen
+
+Not built, pending a decision from the user:
+
+- [ ] **News / article library.** The source has about 75 legal-information
+      columns. They are copyrighted and credited to the County Attorney's
+      office, so they cannot be copied, and most cover topics outside a felony
+      prosecutor's work.
+- [ ] **Staff and attorney directory.** The source lists the County Attorney's
+      employees. This office's staff list has not been supplied.
+- [ ] **Arraignment calendar.** The source's calendar is for District Court
+      arraignments handled by the County Attorney.
+
+Phone numbers and links for other offices live in `lib/directory.ts`. They were
+checked against each organization's own website on 2026-10-12 and need
+re-checking before launch.
+
 ## Needed from the client
 
 Required before the policy pages and `llms.txt` can be built:
@@ -60,13 +97,21 @@ Required before the policy pages and `llms.txt` can be built:
 Requested, and left off the site until supplied (nothing is shown as a
 placeholder):
 
-- [ ] Office phone number, public email address and office hours
+- [ ] Office phone number, public email address and office hours. The Attorney
+      General's directory lists (859) 292-6490 and fax (859) 292-6488 for the
+      17th Circuit Commonwealth's Attorney. Not added until confirmed.
+- [ ] **Suite number.** The site uses Suite 201, from the engagement letter.
+      The Attorney General's directory and the county's website list the
+      Commonwealth's Attorney at 601 Washington Street, Suite 210.
+- [ ] The name or title of the office's open records custodian, and an email
+      address for requests (the `/open-records` page gives the mailing address
+      only)
 - [ ] A portrait of Rob Sanders, and any courthouse or Newport photography
 - [ ] Approved copy. The engagement letter contains no site copy, so the
       homepage text was drafted from the seal, the letter's name, title and
       address, and general descriptions of what a Kentucky Commonwealth's
       Attorney does. It all needs the office's sign-off.
-- [ ] The page list for the rest of the site
+- [ ] Sign-off on the page list above, and on the three items not built
 
 ## Notes for handoff
 

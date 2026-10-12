@@ -80,6 +80,7 @@ Scale (desktop → mobile, size/line-height in px):
 | Role              | Font               | Desktop | Mobile | Notes                                                                                                            |
 | ----------------- | ------------------ | ------- | ------ | ---------------------------------------------------------------------------------------------------------------- |
 | Display (hero h1) | Besley 700         | 72/76   | 28–40  | `tracking-[-0.015em]`. 56/60 from 768px, 72/76 from 1280px; fluid on phones so the county name stays on one line |
+| Page title (h1)   | Besley 700         | 56/60   | 34/40  | Inner pages. `tracking-[-0.015em]`. 48/54 from 768px                                                             |
 | H2                | Besley 700         | 44/50   | 31/37  | `tracking-[-0.01em]`                                                                                             |
 | H3                | Besley 600         | 24/31   | 21/28  |                                                                                                                  |
 | H4                | Libre Franklin 700 | 18/26   | 17/25  |                                                                                                                  |
@@ -132,6 +133,13 @@ Measure: body copy is capped at about 68 characters (`max-w-[42rem]`).
   border, `navy-800` 2px border on focus, label above in Libre Franklin 600 14px.
 - **Section headings.** A bronze label, the title, then an optional lead. No
   decorative rule or divider sits above the heading.
+- **Page header** (inner pages). A `navy-900` band with the rings running off
+  the right edge: a bronze label (the office name, or a link back to the parent
+  page), the page title and an optional lead. Compact: 56px, 64px and 80px of
+  vertical padding at mobile, tablet and desktop.
+- **Office contact.** Another office's name, address, phone and hours on
+  `silver-50` with a 3px bronze rule down the left edge. Used wherever the site
+  sends people elsewhere.
 
 ## Imagery
 
