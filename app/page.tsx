@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 import { ButtonLink } from "@/components/button-link";
 import { SealRings } from "@/components/seal-rings";
-import { DoubleRule, SectionHeading } from "@/components/section-heading";
+import { SectionHeading } from "@/components/section-heading";
 import {
   Card,
   CardDescription,
@@ -178,17 +178,14 @@ function Hero() {
               About the Office
             </ButtonLink>
           </div>
-          <div className="mt-12 flex animate-rise items-center gap-5 [animation-delay:280ms]">
-            <DoubleRule className="w-12 shrink-0" />
-            <p>
-              <span className="block font-heading text-[1.375rem] leading-7 font-semibold text-white">
-                {site.person}
-              </span>
-              <span className="eyebrow mt-1 block text-silver-300">
-                {site.personTitle}
-              </span>
-            </p>
-          </div>
+          <p className="mt-12 animate-rise [animation-delay:280ms]">
+            <span className="block font-heading text-[1.375rem] leading-7 font-semibold text-white">
+              {site.person}
+            </span>
+            <span className="eyebrow mt-1 block text-silver-300">
+              {site.personTitle}
+            </span>
+          </p>
         </div>
 
         <div className="flex min-w-0 justify-center lg:col-span-5 lg:justify-end">

@@ -130,9 +130,8 @@ Measure: body copy is capped at about 68 characters (`max-w-[42rem]`).
   hairline and a legal row for the policy links and "Cookie settings".
 - **Form fields** (for later pages). 48px tall, 2px radius, 1px `silver-300`
   border, `navy-800` 2px border on focus, label above in Libre Franklin 600 14px.
-- **Double rule.** The signature divider: a 3px bronze bar over a 1px silver
-  hairline, 64px wide, placed above section headings. It restates the seal's
-  double ring.
+- **Section headings.** A bronze label, the title, then an optional lead. No
+  decorative rule or divider sits above the heading.
 
 ## Imagery
 
