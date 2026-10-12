@@ -1,0 +1,777 @@
+[
+  {
+    "slug": "kentuckys-court-system",
+    "title": "Kentucky’s court system",
+    "category": "Courts and legal process",
+    "summary": "How Kentucky’s four levels of court work, what each one hears, and how a case moves from one level to the next.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky has one unified court system, called the Court of Justice, with four levels: District Court, Circuit Court, the Court of Appeals and the Supreme Court. The first two are trial courts, where cases are heard and decided. The last two are appellate courts, which review what a trial court did."
+      },
+      { "type": "h2", "text": "District Court" },
+      {
+        "type": "p",
+        "text": "District Court is a court of limited jurisdiction, which means it hears only the kinds of cases the law assigns to it. It sits in every county and handles:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Misdemeanors, violations, traffic offenses and local ordinance cases.",
+          "The first steps in a felony case, including arraignments and probable cause hearings.",
+          "Civil claims of $5,000 or less, including small claims of $2,500 or less.",
+          "Probate of wills and estates, unless the matter is contested.",
+          "Juvenile cases."
+        ]
+      },
+      { "type": "h2", "text": "Circuit Court and Family Court" },
+      {
+        "type": "p",
+        "text": "Circuit Court is the court of general jurisdiction. It hears every kind of case not assigned to another court, including felonies and capital offenses, civil claims over $5,000, disputes over title to land and contested probate matters. It also hears appeals from District Court."
+      },
+      {
+        "type": "p",
+        "text": "Family Court is a division of Circuit Court in the counties that have one. It handles divorce, child custody and support, adoption, termination of parental rights, domestic violence cases, and child abuse and neglect cases. Campbell County makes up the 17th Judicial Circuit, which has a Family Court division. The Campbell County Courthouse is at 330 York Street in Newport."
+      },
+      { "type": "h2", "text": "The appellate courts" },
+      {
+        "type": "p",
+        "text": "The Court of Appeals has 14 judges, who sit in panels of three and hear most appeals from Circuit Court. An appeal is not a new trial. The judges review the record from the trial court for legal error."
+      },
+      {
+        "type": "p",
+        "text": "The Supreme Court is the state’s highest court, with seven justices. An appeal from a Circuit Court judgment imposing a sentence of death, life imprisonment or 20 years or more goes directly to the Supreme Court. Most other cases reach it only if the justices agree to review a Court of Appeals decision."
+      },
+      { "type": "h2", "text": "How a case moves between courts" },
+      {
+        "type": "p",
+        "text": "A misdemeanor case is decided in District Court, and an appeal goes to Circuit Court. A felony case often begins in District Court, which decides whether there is probable cause to send it to a grand jury, a panel of citizens that decides whether to issue an indictment, the formal charge. An indicted case is tried in Circuit Court."
+      },
+      {
+        "type": "p",
+        "text": "The Kentucky Constitution guarantees at least one appeal as a matter of right in every civil and criminal case. One limit protects defendants: the Commonwealth may not appeal a judgment of acquittal, except to ask a higher court to settle a question of law for future cases."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Kentucky Constitution, Section 110",
+        "href": "https://apps.legislature.ky.gov/Law/Constitution/Constitution/ViewConstitution?rsn=121"
+      },
+      {
+        "label": "Kentucky Constitution, Section 115",
+        "href": "https://apps.legislature.ky.gov/Law/Constitution/Constitution/ViewConstitution?rsn=131"
+      },
+      {
+        "label": "KRS 24A.110",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20690"
+      },
+      {
+        "label": "KRS 24A.120",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43159"
+      },
+      {
+        "label": "Kentucky Court of Justice: Courts",
+        "href": "https://www.kycourts.gov/Courts/Pages/default.aspx"
+      },
+      {
+        "label": "Kentucky Court of Justice: Campbell County",
+        "href": "https://www.kycourts.gov/Courts/County-Information/Pages/Campbell.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "classes-of-crime",
+    "title": "Classes of crime in Kentucky",
+    "category": "Crime and public safety",
+    "summary": "How Kentucky sorts offenses into violations, misdemeanors and felonies, and the penalty range the law sets for each class.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky law sorts every offense into one of three groups: violations, misdemeanors and felonies. The group, and the class within it, sets the highest penalty a court can impose. The statute that defines a crime normally states its class."
+      },
+      { "type": "h2", "text": "Violations" },
+      {
+        "type": "p",
+        "text": "A violation is the lowest level of offense. It can be punished only by a fine, never by jail time. The fine is up to $250 unless the law that defines the offense sets a different amount."
+      },
+      { "type": "h2", "text": "Misdemeanors" },
+      {
+        "type": "p",
+        "text": "A misdemeanor is an offense that can be punished by up to 12 months in jail. There are two classes:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Class B misdemeanor: up to 90 days in jail and a fine of up to $250.",
+          "Class A misdemeanor: up to 12 months in jail and a fine of up to $500."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The judge or jury may impose a fine instead of jail or in addition to it. Misdemeanors and violations are generally handled in District Court."
+      },
+      { "type": "h2", "text": "Felonies" },
+      {
+        "type": "p",
+        "text": "A felony is an offense that can be punished by a year or more in state custody. Felonies are prosecuted in Circuit Court. Kentucky has five felony categories, each with its own prison range:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Class D felony: 1 to 5 years.",
+          "Class C felony: 5 to 10 years.",
+          "Class B felony: 10 to 20 years.",
+          "Class A felony: 20 to 50 years, or life.",
+          "Capital offense: 20 to 50 years, life, life without parole eligibility until at least 25 years are served, life without parole, or death. Murder is a capital offense."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A felony conviction also carries a fine of $1,000 to $10,000, or double the offender’s gain from the crime if that is greater. The fine is not imposed on a person the court finds to be indigent, meaning unable to afford it. The same is true of misdemeanor fines."
+      },
+      { "type": "h2", "text": "What the ranges do not tell you" },
+      {
+        "type": "p",
+        "text": "These are general ranges. The sentence in a real case depends on more than the class of the offense."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Some laws outside the penal code set their own penalties for specific offenses.",
+          "A person with prior felony convictions may be sentenced as a persistent felony offender, which raises the prison range.",
+          "Many offenses move up a class when certain facts are present, such as a higher dollar loss, a weapon or a prior conviction.",
+          "A felony prison term is indeterminate. The sentence sets the maximum, and the actual release date is decided later under parole and other laws."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A class tells you the outer limits of punishment. It does not tell you what will happen in a particular case, where the facts, the person’s record and the terms of any plea agreement all matter."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 500.080",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55475"
+      },
+      {
+        "label": "KRS 532.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20030"
+      },
+      {
+        "label": "KRS 532.060",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54992"
+      },
+      {
+        "label": "KRS 532.090",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20046"
+      },
+      {
+        "label": "KRS 534.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20097"
+      },
+      {
+        "label": "KRS 534.040",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20098"
+      }
+    ]
+  },
+  {
+    "slug": "jury-duty",
+    "title": "Jury duty",
+    "category": "Courts and legal process",
+    "summary": "Who gets summoned for jury duty in Kentucky, who qualifies, how long service lasts, what it pays, and what happens if you ignore a summons.",
+    "body": [
+      {
+        "type": "p",
+        "text": "If you receive a jury summons in Kentucky, you are required to respond. State law has no automatic exemptions from jury service, but a court may postpone your service or excuse you for good reason."
+      },
+      { "type": "h2", "text": "How jurors are chosen" },
+      {
+        "type": "p",
+        "text": "The Administrative Office of the Courts keeps a master list of prospective jurors for each county. It combines people over 18 with a driver’s license or state ID card issued in the county, people who filed a Kentucky resident income tax return from an address there, and registered voters. Names are drawn at random. A summons is mailed at least 30 days before the reporting date, with a qualification form to return within five days."
+      },
+      { "type": "h2", "text": "Who can serve" },
+      {
+        "type": "p",
+        "text": "A person is disqualified from jury service if he or she:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Is under 18.",
+          "Is not a United States citizen.",
+          "Does not live in the county that sent the summons.",
+          "Does not have sufficient knowledge of English.",
+          "Has a felony conviction and has not been pardoned or had civil rights restored.",
+          "Is currently under indictment.",
+          "Has already served on a jury within the past 24 months."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A person 70 or older may ask on the form to be excused. The chief circuit judge may grant a permanent exemption for a permanent medical condition. A disability alone does not disqualify anyone."
+      },
+      { "type": "h2", "text": "Length of service, pay and your job" },
+      {
+        "type": "p",
+        "text": "A summons requires you to be available for 30 court days. If you are seated on a trial, you serve until it ends. Jurors receive $12.50 for each day of attendance: $5 in pay and $7.50 for expenses."
+      },
+      {
+        "type": "p",
+        "text": "An employer may not fire, threaten or coerce an employee for receiving a summons or serving as a juror. An employer who does commits a Class B misdemeanor, and a fired employee may sue within 90 days for lost wages and reinstatement. Employers are not required to pay wages during jury service."
+      },
+      { "type": "h2", "text": "Postponement, excusal and ignoring a summons" },
+      {
+        "type": "p",
+        "text": "A judge may excuse a juror who shows undue hardship, extreme inconvenience or public necessity, but the law favors postponing service over excusing it. A designated clerk or court administrator may postpone service for up to 12 months, and a judge for up to 24 months. A breastfeeding mother is excused until she is no longer nursing the child."
+      },
+      {
+        "type": "p",
+        "text": "A person who does not appear can be ordered into court to explain why and, without good cause, punished for contempt of court, meaning disobeying a court order. Court staff never ask for payment, a credit card number or a Social Security number over missed jury service. A call like that is a scam."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS Chapter 29A, Juries",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37172"
+      },
+      {
+        "label": "KRS 29A.080",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54074"
+      },
+      {
+        "label": "KRS 29A.100",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=21127"
+      },
+      {
+        "label": "KRS 29A.160",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=21133"
+      },
+      {
+        "label": "KRS 29A.170",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=21134"
+      },
+      {
+        "label": "Kentucky Court of Justice: Jury Service",
+        "href": "https://www.kycourts.gov/Courts/Pages/Jury-Service.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "courtroom-etiquette",
+    "title": "Courtroom etiquette",
+    "category": "Courts and legal process",
+    "summary": "Practical guidance for a day in a Kentucky courthouse: arriving, security, dress, phones, addressing the judge, children and interpreters.",
+    "body": [
+      {
+        "type": "p",
+        "text": "A court hearing is a formal proceeding, and everyone in the room is expected to act with respect. That applies whether you are a party, a witness, a juror or a spectator."
+      },
+      { "type": "h2", "text": "Arriving and going through security" },
+      {
+        "type": "p",
+        "text": "Plan to arrive early. Court guidance suggests being at the courtroom 15 minutes before your hearing, and you will need extra time to park, pass through security and find the right room. Double check the date, time and location on your paperwork."
+      },
+      {
+        "type": "p",
+        "text": "Members of the public must pass through security screening to enter a court facility. Bags are inspected, and you may be asked to walk through a metal detector. Anyone who refuses screening is denied entry. Weapons are not permitted, and the statewide court security rules define weapons to include firearms, knives and pepper spray. Leave those items at home or locked in your vehicle. Tell the officer if you have an implanted medical device."
+      },
+      { "type": "h2", "text": "Dress, phones and food" },
+      {
+        "type": "p",
+        "text": "You do not need new clothes. Wear something clean and neat, and avoid clothing with written messages, symbols or profanity. Switch your phone and other devices to silent before you enter the courtroom. Food, drinks and chewing gum are not allowed inside. Courts can have their own local rules of conduct, so ask the circuit court clerk’s office if you are unsure about a rule."
+      },
+      { "type": "h2", "text": "How to act in the courtroom" },
+      {
+        "type": "ul",
+        "items": [
+          "If a bailiff is at the door, ask before you enter. Some hearings are closed to the public.",
+          "Once the judge enters, do not talk, whisper or pass notes.",
+          "Address the judge as “Your Honor,” and refer to others as Mr., Mrs. or Ms.",
+          "Speak clearly and answer out loud, not with a nod.",
+          "Do not interrupt anyone, especially the judge. You will get a turn to speak.",
+          "If you do not understand a question, you may respectfully ask for it to be explained."
+        ]
+      },
+      { "type": "h2", "text": "Children, interpreters and accommodations" },
+      {
+        "type": "p",
+        "text": "Court guidance advises against bringing children to the courthouse unless a judge has ordered it or the child will be a witness. If you cannot avoid it, bring another adult to watch them while you are in the courtroom."
+      },
+      {
+        "type": "p",
+        "text": "If you have limited English or are deaf or hard of hearing, you have a right to a court-appointed interpreter at no cost to you. Local courts schedule interpreters, so contact the court where your case will be heard as early as you can. People with disabilities may also ask for reasonable accommodations, such as assistive listening devices or large-print documents. The court system asks for requests at least 48 hours ahead when possible. Service animals are permitted in court facilities."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Kentucky Access to Justice Commission: Your Day in Court",
+        "href": "https://www.kycourts.gov/Legal-Help/Documents/yourdayincourt.pdf"
+      },
+      {
+        "label": "Supreme Court of Kentucky Order 2025-46, Court Security",
+        "href": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/202546.pdf"
+      },
+      {
+        "label": "Kentucky Court of Justice: Language Access",
+        "href": "https://www.kycourts.gov/Court-Programs/Language-Access/Pages/default.aspx"
+      },
+      {
+        "label": "Kentucky Court of Justice: Court ADA",
+        "href": "https://www.kycourts.gov/AOC/Careers/Pages/Court%20ADA.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "perjury",
+    "title": "Perjury",
+    "category": "Crime and public safety",
+    "summary": "What counts as perjury and false swearing in Kentucky, what makes a statement material, the penalties, and when a retraction is a defense.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Perjury is lying under oath about something that matters. In Kentucky it is a crime to make a false statement under oath that you do not believe to be true. How serious the charge is depends on where the statement was made and whether it was material."
+      },
+      { "type": "h2", "text": "What “under oath” and “material” mean" },
+      {
+        "type": "p",
+        "text": "An oath includes an affirmation or any other legally authorized way of attesting that a statement is true. A written statement counts as sworn when it is made on a form carrying an authorized notice that false statements are punishable, or when the person knowingly presents it as sworn before an officer who can administer oaths, such as a notary."
+      },
+      {
+        "type": "p",
+        "text": "A false statement is material if it could have affected the outcome of the proceeding, whether or not it would have been admissible as evidence. The statute makes materiality a question of law for the court."
+      },
+      { "type": "h2", "text": "The offenses and their penalties" },
+      {
+        "type": "ul",
+        "items": [
+          "Perjury in the first degree: a material false statement made under oath in an official proceeding, such as a trial, an administrative hearing or a deposition. It also covers false sworn statements in certain warrant applications. It is a Class D felony, punishable by one to five years in prison.",
+          "Perjury in the second degree: a material false statement in a signed, sworn written document, made with intent to mislead a public servant in the performance of official duties. It is a Class A misdemeanor, punishable by up to 12 months in jail.",
+          "False swearing: any false statement made under an oath required or authorized by law, whether or not it is material. It is a Class B misdemeanor, punishable by up to 90 days in jail."
+        ]
+      },
+      { "type": "h2", "text": "Proof, honest mistakes and retraction" },
+      {
+        "type": "p",
+        "text": "Each of these offenses requires a statement the person did not believe. An honest mistake or a faulty memory is not perjury. The law also sets a proof rule: a statement cannot be shown to be false solely through contradiction by the testimony of a single witness. When a person makes two sworn statements that contradict each other, the prosecution may charge them together and does not have to prove which one was false."
+      },
+      {
+        "type": "p",
+        "text": "Retraction is a defense. A person is not guilty if he or she took back the false statement during the same proceeding, before it substantially affected the proceeding and before it became clear that the falsehood was or would be exposed. It is not a defense that the oath was administered in an irregular way."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS Chapter 523, Perjury and Related Offenses",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39389"
+      },
+      {
+        "label": "KRS 523.010",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19892"
+      },
+      {
+        "label": "KRS 523.020",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=51738"
+      },
+      {
+        "label": "KRS 523.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19894"
+      },
+      {
+        "label": "KRS 523.040",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19895"
+      },
+      {
+        "label": "KRS 523.090",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19900"
+      }
+    ]
+  },
+  {
+    "slug": "expungement",
+    "title": "Expungement of charges and convictions",
+    "category": "Courts and legal process",
+    "summary": "Which Kentucky records can be expunged, the waiting periods, the certification of eligibility, where to file, the fees, and what expungement does.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Expungement is a court order that removes a criminal record from court and agency files so that it no longer appears on official state background checks. Kentucky allows it for charges that ended without a conviction, for most misdemeanors and for many Class D felonies, the lowest felony class."
+      },
+      { "type": "h2", "text": "Acquittals and dismissed charges" },
+      {
+        "type": "p",
+        "text": "If you were acquitted, or all charges were dismissed with prejudice (meaning they cannot be refiled) and not in exchange for a guilty plea to another charge, the court expunges the record automatically after 30 days. This covers orders entered on or after July 15, 2020, but not traffic infractions. Otherwise you may petition 60 days after the acquittal or dismissal. Charges dismissed without prejudice can be expunged by petition after one year for a misdemeanor or three years for a felony, and felony charges sent to a grand jury but never indicted after six months."
+      },
+      { "type": "h2", "text": "Misdemeanor convictions" },
+      {
+        "type": "p",
+        "text": "You may petition to expunge a misdemeanor, violation or traffic infraction conviction, generally five years after completing your sentence or probation, whichever is later. The filing fee is $100. The judge must find that:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The offense was not a sex offense or an offense against a child.",
+          "You have no felony or misdemeanor conviction in the five years before filing.",
+          "No felony or misdemeanor case is pending against you.",
+          "The offense is not one that can still enhance a later charge."
+        ]
+      },
+      { "type": "h2", "text": "Class D felony convictions" },
+      {
+        "type": "p",
+        "text": "The statute lists many eligible Class D felonies, including drug possession, theft and forgery offenses. Other Class D felonies can qualify unless the offense was a sex offense, an offense against a child, an abuse of public office, a felony DUI or another excluded offense, or it caused serious bodily injury or death."
+      },
+      {
+        "type": "p",
+        "text": "The same five-year wait applies, measured from the end of the sentence, probation or parole. There is a $50 filing fee, plus a $250 fee if the court grants the request, payable in installments. The prosecutor may object, and the judge may hold a hearing."
+      },
+      { "type": "h2", "text": "Certification, filing and effect" },
+      {
+        "type": "p",
+        "text": "Every petition to expunge a conviction must include a certification of eligibility, prepared by the Administrative Office of the Courts and the Kentucky State Police. It costs $40 and expires in 30 days, according to the court system. File the petition with the circuit court clerk in the county where the charge was filed."
+      },
+      {
+        "type": "p",
+        "text": "Once a record is expunged, courts and agencies delete it from their systems and answer any inquiry by saying no record exists. You need not disclose it on an application for a job, credit or anything else. Expunging a felony conviction also restores the right to vote, unless something else prevents it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 431.073",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53904"
+      },
+      {
+        "label": "KRS 431.076",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=50191"
+      },
+      {
+        "label": "KRS 431.078",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45221"
+      },
+      {
+        "label": "KRS 431.079",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49360"
+      },
+      {
+        "label": "Kentucky Court of Justice: Expungement Certification Process",
+        "href": "https://www.kycourts.gov/AOC/Information-and-Technology/Pages/Expungement.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "elder-abuse",
+    "title": "Elder abuse",
+    "category": "Crime and public safety",
+    "summary": "How Kentucky law defines abuse, neglect and exploitation of vulnerable adults, who must report it, how to report, and the criminal penalties.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky law makes it a crime to abuse, neglect or financially exploit a vulnerable adult, and it requires anyone who suspects it to report. The law is not limited to older people. It protects any person 18 or older who, because of mental or physical dysfunction, cannot manage his or her own resources, carry out daily living activities or stay safe without help from others."
+      },
+      { "type": "h2", "text": "What the law covers" },
+      {
+        "type": "ul",
+        "items": [
+          "Abuse means causing injury, sexual abuse, unreasonable confinement, intimidation or punishment that leads to physical pain or injury. Mental injury counts.",
+          "Neglect means an adult cannot perform or obtain what is needed to maintain health or welfare, or a caretaker withholds services the adult needs.",
+          "Exploitation means obtaining or using an adult’s money, assets or property by deception, intimidation or similar means, intending to deprive the adult of them."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A caretaker can be a relative, a paid aide, a facility or anyone else who has taken on responsibility for the adult’s care."
+      },
+      { "type": "h2", "text": "The duty to report" },
+      {
+        "type": "p",
+        "text": "Every person who has reasonable cause to suspect that an adult has suffered abuse, neglect or exploitation must report it. That includes doctors, nurses, social workers, police officers, facility employees and caretakers. The report must be made immediately to the Cabinet for Health and Family Services. The adult’s death does not end the duty. A person who reports with reasonable cause is immune from civil and criminal liability for doing so. Knowingly or wantonly failing to report is a Class B misdemeanor."
+      },
+      { "type": "h2", "text": "How to report" },
+      {
+        "type": "ul",
+        "items": [
+          "In an emergency, call 911.",
+          "Call the Cabinet’s abuse hotline at 1-877-597-2331 or 1-800-752-6200.",
+          "For non-emergencies, use the Cabinet’s online reporting system. Online reports are reviewed only during weekday business hours.",
+          "Abuse or neglect of a patient can also be reported to the Attorney General’s tip line at 1-877-228-7384."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Give what you know: the adult’s name, address and age, what happened and who may be responsible. The Cabinet notifies law enforcement and investigates. The adult is offered protective services and may accept or refuse them."
+      },
+      { "type": "h2", "text": "Criminal penalties" },
+      {
+        "type": "p",
+        "text": "The penalty depends on the offender’s state of mind and, for exploitation, the amount lost. Acting wantonly means consciously disregarding a substantial risk. Acting recklessly means failing to perceive one."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Knowingly abusing or neglecting an adult: Class C felony, 5 to 10 years in prison.",
+          "Wantonly abusing or neglecting an adult: Class D felony, 1 to 5 years.",
+          "Recklessly abusing or neglecting an adult: Class A misdemeanor, up to 12 months in jail.",
+          "Exploitation causing a loss of more than $300: Class C felony if done knowingly, Class D felony if done wantonly or recklessly.",
+          "Exploitation causing a loss of $300 or less: Class A misdemeanor."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 209.020",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=8181"
+      },
+      {
+        "label": "KRS 209.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=8182"
+      },
+      {
+        "label": "KRS 209.050",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=8185"
+      },
+      {
+        "label": "KRS 209.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39691"
+      },
+      {
+        "label": "Cabinet for Health and Family Services: Adult Protection Branch",
+        "href": "https://www.chfs.ky.gov/agencies/dcbs/dpp/apb/pages/default.aspx"
+      },
+      {
+        "label": "Kentucky Attorney General: Patient Abuse and Neglect",
+        "href": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/patient-abuse.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "electronic-communication-crimes",
+    "title": "Electronic communication crimes",
+    "category": "Crime and public safety",
+    "summary": "Kentucky crimes committed by phone, text, email and social media, including harassment, stalking, threats and image abuse, and how to report them.",
+    "body": [
+      {
+        "type": "p",
+        "text": "A threat, a pattern of harassment or the sharing of private images can be a crime in Kentucky whether it happens in person, by text, by email or on social media."
+      },
+      { "type": "h2", "text": "Harassment, stalking and threats" },
+      {
+        "type": "ul",
+        "items": [
+          "Harassing communications: contacting someone by phone, mail or any electronic or written means, intending to intimidate, harass, annoy or alarm, in a way that causes annoyance or alarm and serves no legitimate purpose. It is a Class B misdemeanor.",
+          "Stalking: an intentional course of conduct, meaning two or more acts, that seriously alarms, annoys, intimidates or harasses a person, serves no legitimate purpose and causes substantial mental distress. Acts can include following, monitoring and online or phone contact. It is a Class D felony, or a Class C felony in aggravated cases, such as when a protective order is in place or the victim reasonably fears physical injury or death.",
+          "Terroristic threatening: threatening a crime likely to cause death, serious physical injury or substantial property damage is a Class A misdemeanor. Threats of death or serious injury at a school function, workplace, place of worship or public event are felonies, as are false reports of a weapon of mass destruction."
+        ]
+      },
+      { "type": "h2", "text": "Sexually explicit images" },
+      {
+        "type": "p",
+        "text": "It is a crime to intentionally share a private, sexually explicit image of an identifiable person without that person’s written consent, to profit or to harm, harass, intimidate, threaten or coerce, when disclosure would cause a reasonable person harm. Consent to making an image is not consent to sharing it. A first offense is a Class A misdemeanor, or a Class D felony if done for profit."
+      },
+      {
+        "type": "p",
+        "text": "Sexual extortion is threatening to distribute a person’s intimate images to force that person to pay money, send more images or engage in sexual conduct. It is a Class A misdemeanor, and a felony if the victim complies or in other aggravated cases."
+      },
+      { "type": "h2", "text": "Soliciting a minor online" },
+      {
+        "type": "p",
+        "text": "It is a felony to knowingly use a phone, computer or other electronic means to procure or promote the use of a minor for illegal sexual activity. The offense is complete when the solicitation is made, even if no meeting follows and even if the “minor” is an officer posing as one. It is a Class C felony, or a Class B felony when, for example, the child is under 12."
+      },
+      { "type": "h2", "text": "Keeping evidence and reporting" },
+      {
+        "type": "ul",
+        "items": [
+          "Save messages, emails, voicemails, call logs, usernames and profile links.",
+          "Take screenshots that show the date, time and sender.",
+          "Do not delete the conversation or your account.",
+          "Keep a dated log of each incident."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you are in immediate danger, call 911. Otherwise, report to your local police department or sheriff’s office and bring what you have saved."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 525.080",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45228"
+      },
+      {
+        "label": "KRS 508.130",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57434"
+      },
+      {
+        "label": "KRS Chapter 508, including KRS 508.075 to 508.080",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39374"
+      },
+      {
+        "label": "KRS 531.120",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47656"
+      },
+      {
+        "label": "KRS 531.125",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56088"
+      },
+      {
+        "label": "KRS 510.155",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54990"
+      }
+    ]
+  },
+  {
+    "slug": "burglary-and-theft-during-the-holidays",
+    "title": "Burglary and theft during the holidays",
+    "category": "Crime and public safety",
+    "summary": "How Kentucky law treats burglary, theft and package theft, with practical steps to protect your home and deliveries over the holidays.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Empty homes, full shopping bags and packages on porches make the holiday season a busy time for thieves. Kentucky law treats entering a building to commit a crime as burglary, which is always a felony, and it grades theft mainly by the value of what was taken."
+      },
+      { "type": "h2", "text": "The degrees of burglary" },
+      {
+        "type": "p",
+        "text": "Burglary means knowingly entering or remaining unlawfully in a building with the intent to commit a crime. Nothing has to be stolen, and the law does not require a forced entry."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Third degree: any building. Class D felony, 1 to 5 years in prison.",
+          "Second degree: a dwelling, meaning a building where a person usually lodges. Class C felony, 5 to 10 years.",
+          "First degree: any building, when a participant is armed with a deadly weapon or explosives, injures someone who is not a participant, or uses or threatens to use a dangerous instrument against such a person. Class B felony, 10 to 20 years."
+        ]
+      },
+      { "type": "h2", "text": "Theft, dollar thresholds and packages" },
+      {
+        "type": "p",
+        "text": "Theft by unlawful taking means taking or exercising control over someone else’s movable property with intent to deprive the owner of it. The current levels are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Under $500: Class B misdemeanor.",
+          "$500 to under $1,000: Class A misdemeanor.",
+          "$1,000 to under $10,000: Class D felony.",
+          "$10,000 to under $1,000,000: Class C felony.",
+          "$1,000,000 or more: Class B felony."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Stealing a firearm is a Class D felony whatever its value. Thefts committed within one year may be combined and their values added together to set the charge."
+      },
+      {
+        "type": "p",
+        "text": "Kentucky’s theft of mail matter law covers letters and packages taken from a mailbox or other mail receptacle, or left for collection or delivery next to one by the Postal Service, a common carrier or a delivery service. It is a Class D felony regardless of what the package is worth."
+      },
+      { "type": "h2", "text": "Protecting your home and packages" },
+      {
+        "type": "ul",
+        "items": [
+          "Lock doors, windows and vehicles, and keep gifts and shopping bags out of sight.",
+          "Put lights on timers, and ask a neighbor to collect mail and packages while you are away.",
+          "Track deliveries, require a signature, or ship to a workplace, locker or pickup counter.",
+          "Wait until you are home to post travel photos.",
+          "Record serial numbers and photograph valuables."
+        ]
+      },
+      { "type": "h2", "text": "If it happens" },
+      {
+        "type": "p",
+        "text": "If you come home to signs of a break-in, do not go inside. Call 911 from a safe place. For a theft, report it to local police promptly, save any camera footage, and give officers serial numbers, tracking numbers and receipts. Notify the seller or carrier about a stolen package, and your bank if cards or checks were taken."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 511.010",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57435"
+      },
+      {
+        "label": "KRS 511.020",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52939"
+      },
+      {
+        "label": "KRS 511.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52940"
+      },
+      {
+        "label": "KRS 511.040",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52941"
+      },
+      {
+        "label": "KRS 514.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55482"
+      },
+      {
+        "label": "KRS 514.140",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52751"
+      }
+    ]
+  },
+  {
+    "slug": "political-signs",
+    "title": "Political signs",
+    "category": "Crime and public safety",
+    "summary": "Kentucky law on taking or damaging campaign signs, and the rules for signs on private property, at polling places and on public right of way.",
+    "body": [
+      {
+        "type": "p",
+        "text": "A campaign sign is someone’s property. Taking one can be charged as theft, and damaging one as criminal mischief, no matter which candidate or issue it supports. Where a sign may be placed depends on who owns or controls the land."
+      },
+      { "type": "h2", "text": "Taking or damaging a sign" },
+      {
+        "type": "ul",
+        "items": [
+          "Theft by unlawful taking: taking someone else’s property with intent to deprive the owner of it. For property worth less than $500, it is a Class B misdemeanor, punishable by up to 90 days in jail.",
+          "Criminal mischief in the second degree: intentionally or wantonly defacing, destroying or damaging property, with no right to do so, causing a loss of less than $500. It is a Class A misdemeanor, punishable by up to 12 months in jail. It drops to a Class B misdemeanor if, before trial, the person repairs or replaces the property, pays full restitution or completes court-ordered community service.",
+          "Criminal mischief in the first degree: the same conduct causing a loss of $500 or more is a Class D felony."
+        ]
+      },
+      { "type": "h2", "text": "Signs on private property" },
+      {
+        "type": "p",
+        "text": "Property owners decide which signs go on their land. Posting a sign on someone else’s property or on public property with no right to do so can be charged as unlawfully posting advertisements, a violation punishable by a fine. In a planned community, the homeowners association’s governing documents may not prohibit political yard signs on an owner’s or resident’s own property. Under that law, signs may go up 30 days before an election and must come down seven days after it, unless a local ordinance allows longer. The association may set reasonable rules. City and county sign ordinances vary."
+      },
+      { "type": "h2", "text": "Polling places" },
+      {
+        "type": "p",
+        "text": "Displaying signs counts as electioneering, which is prohibited within 100 feet of any entrance voters use at a building where voting is taking place. The rule does not apply to signs on private property inside that zone, displayed by its owner or tenant."
+      },
+      { "type": "h2", "text": "Public right of way" },
+      {
+        "type": "p",
+        "text": "On a state-maintained road, state law treats a sign in the right of way as an encroachment that requires a permit from the Department of Highways. The Transportation Cabinet’s District 6 office, which serves Campbell County, has said that only official highway signs and permitted items are allowed there, and that nothing may be attached to right of way fences, road signs or utility poles."
+      },
+      {
+        "type": "p",
+        "text": "If the department issues a notice of violation, the responsible party has seven days to remove the sign and faces a civil fine starting at $500. If the sign stays, the department removes it and recovers the cost. The statute assigns removal to the department, not to rival campaigns or passersby. Rules for city streets and county roads vary."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 514.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55482"
+      },
+      {
+        "label": "KRS Chapter 512, Criminal Damage to Property",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39378"
+      },
+      {
+        "label": "KRS 177.106",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=51326"
+      },
+      {
+        "label": "KRS 381.800",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56131"
+      },
+      {
+        "label": "KRS 117.235",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53819"
+      },
+      {
+        "label": "Kentucky Transportation Cabinet District 6: Signs are Restricted on Right of Way",
+        "href": "https://content.govdelivery.com/accounts/KYTC/bulletins/30bbb06"
+      }
+    ]
+  }
+]

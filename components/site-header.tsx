@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { ChevronDownIcon } from "lucide-react";
 import { ButtonLink } from "@/components/button-link";
 import { MobileNav } from "@/components/mobile-nav";
 import { StickyShell } from "@/components/sticky-shell";
@@ -44,7 +45,7 @@ export function SiteHeader() {
         <div className="container-site flex h-20 items-center justify-between gap-6 lg:h-[5.5rem]">
           <Link
             href="/"
-            className="group flex min-w-0 items-center gap-3 sm:gap-4 xl:shrink-0"
+            className="group flex min-w-0 items-center gap-3 sm:gap-4"
             aria-label={`${site.name}, home`}
           >
             <Image
@@ -61,7 +62,7 @@ export function SiteHeader() {
               </span>
               <span className="eyebrow block text-[0.625rem] leading-4 text-muted-foreground sm:text-[0.6875rem]">
                 {site.county}
-                <span className="hidden sm:inline">
+                <span className="hidden sm:inline xl:hidden">
                   <span aria-hidden="true" className="mx-1.5 text-bronze-500">
                     &bull;
                   </span>
@@ -71,16 +72,40 @@ export function SiteHeader() {
             </span>
           </Link>
 
-          <nav aria-label="Primary" className="hidden xl:block">
-            <ul className="flex items-center gap-8">
+          <nav aria-label="Primary" className="hidden shrink-0 xl:block">
+            <ul className="flex items-center gap-6">
               {primary.map((item) => (
-                <li key={item.href}>
+                <li key={item.href} className="group/menu relative">
                   <Link
                     href={item.href}
-                    className="relative block py-2 text-[0.8125rem] whitespace-nowrap font-bold tracking-[0.08em] text-navy-800 uppercase after:absolute after:inset-x-0 after:bottom-0 after:h-[3px] after:origin-left after:scale-x-0 after:bg-bronze-500 after:transition-transform after:duration-200 after:ease-out hover:after:scale-x-100 focus-visible:after:scale-x-100"
+                    className="relative flex items-center gap-1.5 py-2 text-[0.8125rem] font-bold tracking-[0.08em] whitespace-nowrap text-navy-800 uppercase after:absolute after:inset-x-0 after:bottom-0 after:h-[3px] after:origin-left after:scale-x-0 after:bg-bronze-500 after:transition-transform after:duration-200 after:ease-out group-focus-within/menu:after:scale-x-100 group-hover/menu:after:scale-x-100"
                   >
                     {item.label}
+                    {item.children ? (
+                      <ChevronDownIcon
+                        aria-hidden="true"
+                        strokeWidth={2.5}
+                        className="size-3.5 transition-transform duration-150 ease-out group-focus-within/menu:rotate-180 group-hover/menu:rotate-180"
+                      />
+                    ) : null}
                   </Link>
+                  {/* Opens on hover or keyboard focus. The top padding bridges the gap to the link. */}
+                  {item.children ? (
+                    <div className="invisible absolute top-full left-1/2 z-50 w-72 -translate-x-1/2 pt-3 opacity-0 transition duration-150 ease-out group-focus-within/menu:visible group-focus-within/menu:opacity-100 group-hover/menu:visible group-hover/menu:opacity-100">
+                      <ul className="border border-t-[3px] border-silver-200 border-t-bronze-500 bg-white py-2 shadow-raised">
+                        {item.children.map((child) => (
+                          <li key={child.href}>
+                            <Link
+                              href={child.href}
+                              className="block px-5 py-2.5 text-[0.9375rem] leading-6 font-semibold text-navy-800 transition-colors duration-150 hover:bg-silver-50 hover:text-royal-600 focus-visible:bg-silver-50"
+                            >
+                              {child.label}
+                            </Link>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  ) : null}
                 </li>
               ))}
             </ul>

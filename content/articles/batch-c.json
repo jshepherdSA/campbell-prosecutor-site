@@ -1,0 +1,765 @@
+[
+  {
+    "slug": "school-buses",
+    "title": "School buses and bus stop safety",
+    "category": "Driving and traffic",
+    "summary": "When Kentucky drivers must stop for a school bus, the penalties and camera enforcement for passing one, and how children can stay safe at the bus stop.",
+    "body": [
+      {
+        "type": "p",
+        "text": "When a school bus or church bus is stopped on a road to pick up or drop off children, with its stop arm out and its signal lights on, drivers approaching from any direction must stop. Stay stopped until the bus has finished loading or unloading and has started moving again."
+      },
+      { "type": "h2", "text": "The divided highway exception" },
+      {
+        "type": "p",
+        "text": "There is one exception. A driver coming from the opposite direction does not have to stop on a highway of four or more lanes that is divided by an elevated barrier or an unpaved median. A change in the law that took effect on July 15, 2026, narrowed this exception. A painted line or a paved center turn lane is not a barrier or an unpaved median, so traffic in both directions must stop on those roads."
+      },
+      { "type": "h2", "text": "Penalties for passing a stopped bus" },
+      {
+        "type": "p",
+        "text": "A first offense carries a fine of $200 to $500, 30 to 60 days in jail, or both. Another offense within three years carries a fine of $300 to $1,000, 60 days to six months in jail, or both. The minimum fine cannot be suspended, and at least six points go on the driver’s record. If a vehicle is seen passing a bus and the driver cannot be identified, the law presumes that the registered owner or lessee was driving. That presumption can be rebutted."
+      },
+      { "type": "h2", "text": "Stop arm cameras" },
+      {
+        "type": "p",
+        "text": "School districts may now enforce the law with cameras mounted on their buses. When a camera records a violation, a notice is mailed to the vehicle’s owner within 30 days, with the images and a sworn statement from a law enforcement officer. The owner owes a civil penalty of $300, or $500 for each later penalty within three years. A camera violation puts no points on a driving record. The owner may contest the notice. If the penalty is not paid or contested within 60 days, the vehicle’s registration can be suspended."
+      },
+      { "type": "h2", "text": "Safety at the bus stop" },
+      {
+        "type": "p",
+        "text": "State highway safety guidance notes that getting to and from the bus is more dangerous than riding it. Children should know these steps:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Wait away from traffic and do not play near the road.",
+          "Line up away from the road as the bus approaches. Do not step onto the road until the bus has stopped completely and its door has opened.",
+          "To cross in front of the bus, walk at least ten feet ahead along the side of the road until you can see the driver. Wait for the driver’s signal before crossing.",
+          "Look left, right and left again, and keep watching for traffic while you cross.",
+          "Stay away from the rear wheels of the bus at all times."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.370",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57416"
+      },
+      {
+        "label": "KRS 189.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57417"
+      },
+      {
+        "label": "2026 Regular Session House Bill 7, legislative record",
+        "href": "https://apps.legislature.ky.gov/record/26rs/hb7.html"
+      },
+      {
+        "label": "KRS 158.487",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57412"
+      },
+      {
+        "label": "KRS 158.488",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57413"
+      },
+      {
+        "label": "Kentucky Office of Highway Safety, School Bus Safety fact sheet",
+        "href": "https://transportation.ky.gov/HighwaySafety/Documents/SchoolBus.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "distracted-driving",
+    "title": "Distracted driving and texting",
+    "category": "Driving and traffic",
+    "summary": "Kentucky’s ban on texting while driving, the stricter rule for drivers under 18, the fines and points, and how distraction affects fault in a crash.",
+    "body": [
+      {
+        "type": "p",
+        "text": "In Kentucky, a driver may not write, send or read a text message, instant message or email on a phone or similar device while the vehicle is moving on the traveled part of a road. For drivers under 18, the ban covers almost all phone use."
+      },
+      { "type": "h2", "text": "What the texting ban does not cover" },
+      {
+        "type": "p",
+        "text": "The ban for adult drivers applies to text-based messages. It does not prohibit phone calls. The statute also does not apply to:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Using a GPS or navigation feature, whether on the phone or built into the vehicle.",
+          "Reading, selecting or entering a phone number or a name to make a call.",
+          "Writing a text to report illegal activity, call for medical help, reach police or another public safety agency, or prevent injury to a person or property.",
+          "The operator of an emergency or public safety vehicle who uses a device as an essential part of official duties."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Kentucky has not adopted a broader hands-free requirement. A bill to prohibit using a mobile electronic device while driving passed the state Senate in 2026 but did not become law."
+      },
+      { "type": "h2", "text": "Drivers under 18" },
+      {
+        "type": "p",
+        "text": "A person under 18 who holds an instruction permit, intermediate license or operator’s license may not use a personal communication device at all while driving a motor vehicle, motorcycle or moped that is in motion. That includes talking as well as texting. The only exception is calling for medical help, police or another public safety agency in an emergency. Navigation systems that stand alone or are built into the vehicle are allowed, but typing information into a phone’s GPS feature is not."
+      },
+      { "type": "h2", "text": "Fines and points" },
+      {
+        "type": "p",
+        "text": "The fine is $25 for a first offense and $50 for each later offense. A texting conviction also adds three penalty points to the driver’s record. The Transportation Cabinet may suspend the license of an adult who collects 12 or more points in two years. For a driver under 18, the threshold is seven points."
+      },
+      { "type": "h2", "text": "Distraction and fault in a crash" },
+      {
+        "type": "p",
+        "text": "A crash caused by distraction can have consequences beyond a ticket. In a civil lawsuit, Kentucky uses comparative fault. The judge or jury assigns each party a percentage of the fault, based on each party’s conduct and how closely it is tied to the harm. Each party’s share of the damages follows that percentage. A driver who was texting or otherwise not paying attention can be found partly or entirely at fault. Depending on the facts, a distracted driver who injures or kills someone may also face criminal charges."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.292",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39750"
+      },
+      {
+        "label": "KRS 189.294",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39751"
+      },
+      {
+        "label": "KRS 189.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57417"
+      },
+      {
+        "label": "601 KAR 13:025, driver license point system",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/601/013/025/"
+      },
+      {
+        "label": "KRS 411.182",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=17782"
+      },
+      {
+        "label": "2026 Regular Session Senate Bill 28, legislative record",
+        "href": "https://apps.legislature.ky.gov/record/26rs/sb28.html"
+      }
+    ]
+  },
+  {
+    "slug": "road-rage",
+    "title": "Road rage",
+    "category": "Driving and traffic",
+    "summary": "The traffic and criminal charges that aggressive driving can bring in Kentucky, which has no single road rage offense, and how to respond safely.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky has no single offense called “road rage.” Angry or aggressive driving is charged under the traffic and criminal laws that fit what the driver did, and those charges range from a traffic ticket to a felony."
+      },
+      { "type": "h2", "text": "Traffic offenses" },
+      {
+        "type": "p",
+        "text": "State law requires every driver to operate a vehicle carefully, with regard for the safety and convenience of pedestrians and other vehicles. It also bars driving in a reckless or negligent manner that endangers people or property. Tailgating, abrupt lane changes and speeding can lead to citations for careless or reckless driving or for more specific traffic violations. A careless driving conviction adds three points to a driving record, and reckless driving adds four. A conviction for reckless or negligent driving that endangers people or property can also lead to revocation of the driver’s license."
+      },
+      { "type": "h2", "text": "Criminal charges" },
+      {
+        "type": "p",
+        "text": "When aggressive driving turns into threats, violence or property damage, criminal charges can apply:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Menacing: intentionally placing another person in reasonable fear of imminent physical injury. It is a Class B misdemeanor.",
+          "Wanton endangerment: conduct that creates a substantial danger of physical injury is a Class A misdemeanor. Conduct that shows extreme indifference to human life and creates a substantial danger of death or serious physical injury is a Class D felony, or a Class C felony if a firearm is discharged.",
+          "Assault: charges range from fourth degree, a Class A misdemeanor, to first degree, a Class B felony, depending on the injury, the person’s state of mind and any weapon used.",
+          "Terroristic threatening in the third degree: threatening to commit a crime likely to cause death, serious physical injury or substantial property damage. It is a Class A misdemeanor.",
+          "Criminal mischief: intentionally or wantonly damaging property, such as another person’s vehicle, with no right to do so. Damage under $500 is a Class A misdemeanor. Damage of $500 or more is generally a Class D felony."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A Class B misdemeanor carries up to 90 days in jail and a Class A misdemeanor up to 12 months. Prison terms are one to five years for a Class D felony, five to ten years for Class C and ten to twenty years for Class B."
+      },
+      { "type": "h2", "text": "If another driver targets you" },
+      {
+        "type": "p",
+        "text": "State highway safety guidance gives this advice:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Get out of the way safely. Do not speed up or try to hold your lane.",
+          "Avoid eye contact and ignore gestures.",
+          "If you are followed, do not drive home and do not get out of your car. Drive to a police or fire station or another place where there are people.",
+          "To report an aggressive driver, give police the vehicle description, license plate number, location and direction of travel."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.290",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55551"
+      },
+      {
+        "label": "KRS Chapter 508, assault and related offenses",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39374"
+      },
+      {
+        "label": "KRS Chapter 512, criminal damage to property",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39378"
+      },
+      {
+        "label": "KRS Chapter 532, classification of offenses and authorized sentences",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39401"
+      },
+      {
+        "label": "601 KAR 13:025, driver license point system",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/601/013/025/"
+      },
+      {
+        "label": "Kentucky Office of Highway Safety, Aggressive Driving fact sheet",
+        "href": "https://transportation.ky.gov/HighwaySafety/Documents/AggressiveDriving%20UPDATE.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "emergency-vehicles",
+    "title": "Emergency vehicles and the move over law",
+    "category": "Driving and traffic",
+    "summary": "How Kentucky drivers must yield to approaching emergency vehicles, move over or slow down for stopped vehicles, and the penalties for failing to do so.",
+    "body": [
+      {
+        "type": "p",
+        "text": "When an emergency vehicle approaches with red or blue lights flashing or its siren sounding, Kentucky law requires you to yield, pull over and stop. When you approach a vehicle stopped on the roadside with warning lights flashing, you must move over or slow down."
+      },
+      { "type": "h2", "text": "Yielding to an approaching emergency vehicle" },
+      {
+        "type": "p",
+        "text": "Drive at once to a position parallel to, and as close as possible to, the edge or curb of the road. Stay clear of any intersection, and remain stopped until the emergency vehicle has passed, unless a police officer or firefighter directs you otherwise. Emergency vehicles include police, fire, ambulance and rescue vehicles, among others. Their drivers may exceed speed limits and go through red lights and stop signs when responding to an emergency with lights and siren on, but they must still drive with due regard for everyone’s safety."
+      },
+      { "type": "h2", "text": "The move over law" },
+      {
+        "type": "p",
+        "text": "The move over rule applies when you approach either of these while it is stationary:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "An emergency vehicle or public safety vehicle displaying flashing yellow, red, red and white, red and blue, or blue lights. Public safety vehicles include tow trucks, utility repair vehicles, highway equipment and government service vehicles.",
+          "A disabled vehicle displaying a warning signal, such as emergency flashers, flares or reflective signals."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "On a highway with at least four lanes, with at least two going in your direction, you must move into a lane that is not next to the stopped vehicle if you can do so safely. If the road has fewer than four lanes, or changing lanes would be impossible or unsafe, you must slow down to a speed that is safe for the road conditions. Either way, proceed with due caution."
+      },
+      { "type": "h2", "text": "Following and blocking" },
+      {
+        "type": "p",
+        "text": "Unless you are on official business, you may not follow an emergency vehicle that is responding with lights or siren closer than 500 feet. You also may not drive into or park in the block where it has stopped for an emergency, unless a police officer or firefighter directs you to. Driving over an unprotected fire hose is prohibited without the consent of the fire official in command."
+      },
+      { "type": "h2", "text": "Penalties" },
+      {
+        "type": "p",
+        "text": "A violation of any of these rules is punishable by a fine of $60 to $500, up to 30 days in jail, or both. A conviction for failing to yield to an emergency vehicle also adds four points to a driving record."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.930",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55550"
+      },
+      {
+        "label": "KRS 189.910",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55371"
+      },
+      {
+        "label": "KRS 189.940",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52874"
+      },
+      {
+        "label": "KRS 189.993",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=46292"
+      },
+      {
+        "label": "601 KAR 13:025, driver license point system",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/601/013/025/"
+      }
+    ]
+  },
+  {
+    "slug": "funeral-processions",
+    "title": "Funeral processions",
+    "category": "Driving and traffic",
+    "summary": "The right of way Kentucky law gives a funeral procession, what drivers in and around a procession must do, and the penalty for interfering with one.",
+    "body": [
+      {
+        "type": "p",
+        "text": "In Kentucky, a funeral procession led by an escort vehicle with flashing lights has the right of way at intersections. Other drivers may not cut into the procession or interfere with it."
+      },
+      { "type": "h2", "text": "What counts as a funeral procession" },
+      {
+        "type": "p",
+        "text": "The law defines a funeral procession as two or more vehicles accompanying the body of a person who has died, when each vehicle has its headlights on or displays a pennant that approaching traffic can clearly see. The escort vehicle, the hearse and other vehicles in the procession may use flashing amber lights to alert the public, to gain the right of way at intersections and to mark the end of the procession."
+      },
+      { "type": "h2", "text": "Right of way at intersections" },
+      {
+        "type": "p",
+        "text": "A vehicle in a procession has the right of way at an intersection, and may proceed through it, if the procession is led by an escort vehicle displaying flashing yellow, red or blue lights. There are three exceptions:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "An emergency vehicle needs the right of way.",
+          "A police or safety officer directs the vehicles in the procession to do something else.",
+          "The other vehicle is a train or locomotive."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Drivers in the procession still have a duty to be careful. Before taking the right of way, each driver must use due caution with regard to crossing traffic."
+      },
+      { "type": "h2", "text": "What other drivers may not do" },
+      {
+        "type": "p",
+        "text": "A driver who is not part of the procession may not:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Drive between the vehicles of a procession or otherwise interfere with its progress, unless a police or safety officer authorizes it. Emergency vehicles are exempt.",
+          "Turn on headlights, or do anything else, for the purpose of getting the right of way that the law gives to processions.",
+          "Pass or overtake a vehicle in the procession. Passing is allowed only if a police or safety officer directs it, the procession is on a road outside city limits, or the procession is on an interstate highway or a state parkway."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A driver who meets a procession at an intersection should wait until the whole procession has passed."
+      },
+      { "type": "h2", "text": "Penalty" },
+      {
+        "type": "p",
+        "text": "A violation of the funeral procession law is a Class B misdemeanor. The maximum penalty for a Class B misdemeanor is 90 days in jail and a fine of $250. The court may impose the fine in place of jail time or in addition to it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.378",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6381"
+      },
+      {
+        "label": "KRS 189.910",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55371"
+      },
+      {
+        "label": "KRS 532.090",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20046"
+      },
+      {
+        "label": "KRS 534.040",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20098"
+      }
+    ]
+  },
+  {
+    "slug": "pedestrians",
+    "title": "Pedestrians",
+    "category": "Driving and traffic",
+    "summary": "Kentucky’s rules for crossing and walking along roads, the duty of care drivers owe people on foot, and the right of way of blind pedestrians.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky law gives pedestrians the right of way in some places and requires them to yield in others. In every situation, a driver must use due care to avoid hitting a person on foot or in a wheelchair."
+      },
+      { "type": "h2", "text": "Crossing the road" },
+      {
+        "type": "p",
+        "text": "Pedestrians must obey traffic signals, and a driver who has a green light or is turning on red must still yield to pedestrians lawfully in the crosswalk. Where there is no signal, or it is not working, a driver must slow down or stop for a pedestrian who is crossing the road the driver is on, or who is coming from the other half of the road and is close enough to be in danger. A driver may not pass a vehicle that has stopped at a marked or unmarked crosswalk to let someone cross. Pedestrians have duties too:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Yield to all vehicles when crossing anywhere other than a marked crosswalk or an unmarked crosswalk at an intersection.",
+          "In a city, between neighboring intersections that both have working traffic signals, cross only in a marked crosswalk.",
+          "Do not suddenly leave the curb and walk or run into the path of a vehicle that is close enough to be an immediate hazard.",
+          "Do not cross an intersection diagonally unless a traffic control device allows it."
+        ]
+      },
+      { "type": "h2", "text": "Walking along a road" },
+      {
+        "type": "p",
+        "text": "Where there is a usable sidewalk, walking in the roadway is unlawful. Where there is no sidewalk, walk on the shoulder, as far from the edge of the roadway as practicable. Where there is neither, walk as near as practicable to the outside edge of the road, and on a two-way road walk only on the left side. A law that took effect in July 2026 also bars sitting, standing or remaining in parts of a state-maintained right of way that are not designated for pedestrians, such as medians and ramps. It has exceptions for emergencies and for sidewalks, marked crosswalks and transit stops."
+      },
+      { "type": "h2", "text": "Drivers’ duty of care" },
+      {
+        "type": "p",
+        "text": "Whatever the right of way rules say, every driver must use due care to avoid colliding with a pedestrian, sound the horn when necessary, and take proper precaution on seeing a child or an obviously confused or incapacitated person on the road. Drivers must also yield to any pedestrian on a sidewalk."
+      },
+      { "type": "h2", "text": "White canes and assistance dogs" },
+      {
+        "type": "p",
+        "text": "A driver must yield the right of way to any blind pedestrian who is carrying a clearly visible white cane or is accompanied by an assistance dog. Failing to yield is a traffic violation punishable by a fine. Most other violations of the pedestrian statute carry a fine of $20 to $100."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.570",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57273"
+      },
+      {
+        "label": "KRS 189.572",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57272"
+      },
+      {
+        "label": "KRS 189.575",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6418"
+      },
+      {
+        "label": "KRS 189.338",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=44640"
+      },
+      {
+        "label": "KRS 189.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57417"
+      }
+    ]
+  },
+  {
+    "slug": "bicycles",
+    "title": "Bicycling regulations",
+    "category": "Driving and traffic",
+    "summary": "Where bicycles may ride in Kentucky, the passing distance drivers must leave, and the rules on lights, equipment, helmets and electric bicycles.",
+    "body": [
+      {
+        "type": "p",
+        "text": "A state regulation requires a bicycle on a Kentucky road to be operated in the same manner as a motor vehicle, with some exceptions. Riders must obey traffic signals, signs and the other rules of the road."
+      },
+      { "type": "h2", "text": "Where to ride" },
+      {
+        "type": "ul",
+        "items": [
+          "Keep to the right, except to pass, to prepare for a left turn, to avoid a hazard, or where the lane is too narrow to share with a passing vehicle.",
+          "Riding on the shoulder is allowed unless a law or ordinance prohibits it.",
+          "Where a lane is marked for bicycles only, use it, with exceptions such as turning left, passing or avoiding a hazard.",
+          "Ride no more than two abreast in a single lane, and do not impede the normal movement of traffic.",
+          "Riding on a sidewalk is allowed unless a law or local ordinance prohibits it, and local rules vary. A rider on a sidewalk must yield to pedestrians and slow to walking speed when they are present."
+        ]
+      },
+      { "type": "h2", "text": "Passing a bicycle" },
+      {
+        "type": "p",
+        "text": "A driver overtaking a bicycle must move into the next lane to the left when there is more than one lane going the same direction and the move is reasonably safe. On a road with one lane in that direction, the driver must keep at least three feet between any part of the vehicle and the bicycle until safely past. If there is not room for three feet, the driver must use reasonable caution. A driver may cross the center line to pass a bicycle, even in a no-passing zone, only when the left side is clear far enough ahead to pass safely."
+      },
+      { "type": "h2", "text": "Lights, equipment and helmets" },
+      {
+        "type": "ul",
+        "items": [
+          "At night and in low visibility, a front light visible for 500 feet and a red light or flashing red light visible for 500 feet to the rear.",
+          "At all times on a road or shoulder, a red reflector or red light visible for at least 100 feet from the rear.",
+          "Brakes that can stop the bicycle within 15 feet from 10 miles per hour on dry, level, clean pavement.",
+          "A bell or horn is allowed, but a siren or whistle is not."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Neither the state bicycle statute nor the regulation requires a helmet. Violating the regulation carries a fine of $10 to $100."
+      },
+      { "type": "h2", "text": "Electric bicycles" },
+      {
+        "type": "p",
+        "text": "The state bicycle regulation covers a device propelled primarily by human power and does not set out separate classes or rules for electric bicycles. A motorized bicycle that meets the legal definition of a moped is treated as a moped, and its operator must be at least 16 and hold a permit or license. Local governments may have their own rules for electric bicycles and scooters."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.287",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6363"
+      },
+      {
+        "label": "601 KAR 14:020, bicycle safety standards",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/601/014/020/"
+      },
+      {
+        "label": "KRS 189.340",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55539"
+      },
+      {
+        "label": "KRS 189.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57417"
+      },
+      {
+        "label": "Kentucky Driver Manual, Kentucky State Police",
+        "href": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "motorcycles",
+    "title": "Motorcycle regulations",
+    "category": "Driving and traffic",
+    "summary": "Kentucky’s rules for motorcycle licenses and permits, helmets and eye protection, passengers, required equipment, lane use and insurance.",
+    "body": [
+      {
+        "type": "p",
+        "text": "To ride a motorcycle on a Kentucky road you need a valid motorcycle license or instruction permit, approved eye protection and, for many riders, a helmet. Motorcyclists must follow the same traffic laws as other drivers."
+      },
+      { "type": "h2", "text": "License and permit" },
+      {
+        "type": "p",
+        "text": "A person who is at least 18, or who holds a valid intermediate license, may apply for a motorcycle instruction permit. A parent or guardian must sign for an applicant under 18. The permit is valid for one year and may be renewed once. Riders under 21 must hold it for 180 days before taking the skills test, and riders 21 or older for 30 days. A person who completes an approved rider training course does not need a permit before getting a license. Permit holders may not carry passengers, and permit holders under 18 may not ride between midnight and 6 a.m. without good cause."
+      },
+      { "type": "h2", "text": "Helmets and eye protection" },
+      {
+        "type": "p",
+        "text": "Every operator must wear approved eye protection whenever the motorcycle is moving. A helmet is required for:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Anyone under 21, whether operating the motorcycle or riding as a passenger, including in a sidecar.",
+          "Anyone operating on an instruction permit.",
+          "Any operator who has held a motorcycle license for less than one year."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A required helmet must meet the federal safety standard and carry a DOT label."
+      },
+      { "type": "h2", "text": "Passengers and equipment" },
+      {
+        "type": "p",
+        "text": "The operator and any passenger must each ride on a permanently attached seat and use permanently attached footrests designed for that purpose. The motorcycle must have a rearview mirror. The state motorcycle manual also lists a headlight with high and low beams, taillight, brake light, horn, muffler, front and rear brakes, and turn signals if they were factory equipment."
+      },
+      { "type": "h2", "text": "Lane use and insurance" },
+      {
+        "type": "p",
+        "text": "A motorcycle needs a full lane. The state motorcycle manual says lane sharing is usually prohibited and warns against riding between rows of stopped or moving cars. Like other motor vehicles, a motorcycle must be registered and covered by liability insurance. The minimum is $25,000 for injury to one person, $50,000 for all injuries in one accident and $25,000 for property damage, or a single limit of $60,000. The no-fault benefits that come with a standard car policy, called basic reparation benefits, are not part of the required coverage for a motorcycle."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.285",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6361"
+      },
+      {
+        "label": "KRS 186.450",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55912"
+      },
+      {
+        "label": "601 KAR 14:010, headgear and eye-protective devices",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/601/014/010/"
+      },
+      {
+        "label": "KRS 304.39-110",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=46758"
+      },
+      {
+        "label": "Kentucky Transportation Cabinet, Motorcycle Credentials",
+        "href": "https://drive.ky.gov/Drivers/Pages/Motorcycle%20Credentials.aspx"
+      },
+      {
+        "label": "Kentucky Motorcycle Manual, Kentucky State Police",
+        "href": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2023/06/KSP-Branded-Motorcycle-Testing-Manual-2023-PRINT.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "roundabouts",
+    "title": "Roundabouts and traffic circles",
+    "category": "Driving and traffic",
+    "summary": "How to enter and drive through a roundabout in Kentucky, including yielding, lane choice, signals, pedestrians, cyclists, trucks and emergency vehicles.",
+    "body": [
+      {
+        "type": "p",
+        "text": "A roundabout is a circular intersection where traffic moves counterclockwise around a center island. Drivers entering a roundabout must slow down and yield to traffic already in it."
+      },
+      { "type": "h2", "text": "Entering and driving through" },
+      {
+        "type": "ul",
+        "items": [
+          "Slow down as you approach and get into the correct lane well before the intersection. Lane use signs show which lanes serve which turns.",
+          "Yield to pedestrians in the crosswalk and to bicyclists before you enter.",
+          "At the yield line, look left and enter when there is an adequate gap. Vehicles already in the roundabout have the right of way.",
+          "Keep your speed low and do not stop inside the roundabout. If you miss your exit, go around again.",
+          "Turn on your right turn signal as you approach your exit, and yield to pedestrians in the crosswalk as you leave."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The yield signs at the entrances carry the force of law. A driver facing a yield sign must slow to a speed reasonable for the conditions, stop if safety requires it, and yield to any vehicle in the intersection or close enough to be an immediate hazard. If a driver passes a yield sign without stopping and then collides with a vehicle in the intersection, the crash itself is treated as evidence of a failure to yield. State law also requires a signal before turning or moving right or left on a roadway."
+      },
+      { "type": "h2", "text": "Pedestrians and bicyclists" },
+      {
+        "type": "p",
+        "text": "Pedestrians should stay on the walkways and never cross to the central island. Transportation Cabinet guidance says to cross one lane at a time, using the splitter island that separates entering and exiting traffic as a refuge. A bicyclist may ride through the roundabout in the travel lane, following the same rules as a motorist, or may leave the road and use the crosswalks as a pedestrian. Drivers should not pass a bicycle inside a roundabout."
+      },
+      { "type": "h2", "text": "Large trucks" },
+      {
+        "type": "p",
+        "text": "Roundabouts are designed for vehicles of all sizes, including tractor trailers and school buses. The raised, paved ring around the center island is a truck apron. It lets the trailing wheels of a large vehicle track over it in a tight turn. In a multi-lane roundabout, avoid traveling in the lane next to a large vehicle so that it has room for a wide turn."
+      },
+      { "type": "h2", "text": "Emergency vehicles" },
+      {
+        "type": "p",
+        "text": "The usual rule applies. State law requires drivers to yield, pull to the edge of the road clear of any intersection, and stop until the emergency vehicle has passed. Transportation Cabinet guidance adds two points for roundabouts. Do not enter a roundabout when an emergency vehicle is approaching from another leg, and let vehicles already inside clear out ahead of it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Kentucky Transportation Cabinet, Roundabouts",
+        "href": "https://transportation.ky.gov/saferoadsolutions/Pages/Roundabouts.aspx"
+      },
+      {
+        "label": "Kentucky Transportation Cabinet, Modern Roundabouts 101",
+        "href": "https://transportation.ky.gov/DistrictNine/Documents/Modern%20Roundabouts%20101.pdf"
+      },
+      {
+        "label": "KRS 189.330",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6370"
+      },
+      {
+        "label": "KRS 189.380",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6382"
+      },
+      {
+        "label": "KRS 189.930",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55550"
+      }
+    ]
+  },
+  {
+    "slug": "winter-driving",
+    "title": "Winter driving",
+    "category": "Driving and traffic",
+    "summary": "The Kentucky traffic laws that matter most on snow and ice, state safety guidance, local snow emergency rules and what to do after a winter crash.",
+    "body": [
+      {
+        "type": "p",
+        "text": "The same traffic laws apply in winter as in the rest of the year, but several of them matter more when roads are covered with snow or ice. The most important is the duty to drive at a speed that is reasonable for the conditions."
+      },
+      { "type": "h2", "text": "Speed, lights and visibility" },
+      {
+        "type": "p",
+        "text": "State law says no one may drive faster than is reasonable and prudent, having regard for traffic and for the condition and use of the highway. On snow or ice, that can mean a speed well below the posted limit. Headlights must be on from a half hour after sunset to a half hour before sunrise, and at any other time when the weather makes visibility that poor. The headlight statute is written in terms of visibility, not wiper use. The Kentucky Driver Manual tells drivers to remove snow, ice and frost from all windows before starting out."
+      },
+      { "type": "h2", "text": "Transportation Cabinet safety guidance" },
+      {
+        "type": "ul",
+        "items": [
+          "Check road conditions before you leave, using the Cabinet’s GoKY traffic map or the Waze app.",
+          "Drive slowly on snow and ice, whatever you drive, and brake early and gently.",
+          "Slow down near intersections, off-ramps, bridges and shaded areas, where black ice forms.",
+          "Keep a safe distance from snowplows and do not pass one on the shoulder.",
+          "Carry an emergency kit with an ice scraper, jumper cables, blankets, a flashlight, a phone charger, snacks and a first aid kit."
+        ]
+      },
+      { "type": "h2", "text": "Snow emergencies and parking" },
+      {
+        "type": "p",
+        "text": "Snow emergency rules are local. In Campbell County, the Office of Emergency Management may declare a snow emergency at one of three levels under a county ordinance. Level One advises cautious driving. Level Two recommends essential travel only. Level Three restricts roads to emergency personnel and people traveling for work, medical care, medical supplies, provisions or private snow removal. At any level, parking is prohibited on county-maintained roads until the emergency is lifted. Vehicles that create a safety hazard may be towed, and fines can reach $250. Cities set their own rules for city streets, and those rules vary."
+      },
+      { "type": "h2", "text": "After a crash" },
+      {
+        "type": "p",
+        "text": "Stop, check for injuries, give reasonable help and, if asked, give your name, address and registration number. On an interstate or parkway, if no one is visibly hurt and no hazardous material is involved, move the vehicles off the roadway as soon as it can be done safely. Notify police immediately if anyone is hurt or killed or a vehicle cannot be driven. If police do not investigate and the crash caused injury, death or at least $500 in property damage, the driver must file a written report with the Kentucky State Police within ten days."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.390",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52569"
+      },
+      {
+        "label": "KRS 189.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6296"
+      },
+      {
+        "label": "KRS 189.580",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6419"
+      },
+      {
+        "label": "Kentucky Transportation Cabinet, Snow and Ice Resources",
+        "href": "https://transportation.ky.gov/Pages/SNIC-Resources.aspx"
+      },
+      {
+        "label": "Kentucky Driver Manual, Kentucky State Police",
+        "href": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf"
+      },
+      {
+        "label": "Campbell County, Winter Storm Travel Information",
+        "href": "https://campbellcountyky.gov/division/blocks.php?structureid=202"
+      }
+    ]
+  },
+  {
+    "slug": "accessible-parking",
+    "title": "Accessible parking",
+    "category": "Driving and traffic",
+    "summary": "Who may use an accessible parking space in Kentucky, how to get a placard or plate, and the $250 fine for parking illegally or misusing a placard.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Accessible parking spaces are reserved for vehicles that display an accessible parking plate or placard and are being used by or for a person with a disability who is in the vehicle. Parking in one without a plate or placard, or using a placard when its holder is not in the vehicle, carries a $250 fine."
+      },
+      { "type": "h2", "text": "Who may park in an accessible space" },
+      { "type": "p", "text": "The vehicle must display one of these:" },
+      {
+        "type": "ul",
+        "items": [
+          "A Kentucky accessible parking registration plate.",
+          "A Kentucky accessible parking placard, permanent or temporary.",
+          "A disability plate or placard from another state or country, or a parking placard issued by a United States Department of Veterans Affairs hospital."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A placard hangs from the rearview mirror so the expiration date can be seen from the front of the vehicle, or sits on the dashboard if there is no mirror. Where local rules limit parking time, a qualifying vehicle may stay two hours beyond the limit. That extra time does not apply in fire lanes, where parking is barred for heavy traffic at certain hours, or where the vehicle would clearly be a traffic hazard."
+      },
+      { "type": "h2", "text": "Getting a placard or plate" },
+      {
+        "type": "p",
+        "text": "Placards are issued by the county clerk in the county where the applicant lives, on a Transportation Cabinet application form. A person qualifies with a severe visual, hearing or physical impairment that limits personal mobility or the ability to walk. Proof usually comes from a statement by a licensed physician, physician assistant, chiropractor or advanced practice registered nurse, dated within 60 days of the application. A parent or guardian may apply for a minor. A placard is issued to the person, not tied to a vehicle."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Permanent placard: valid for six years and renewable. The first is free and a duplicate costs $10.",
+          "Temporary placard: valid for up to three months and issued at no charge.",
+          "Accessible registration plate: available to a person whose disability limits the ability to walk, who has lost the use of an arm, or who is blind, and to a parent or guardian of such a person."
+        ]
+      },
+      { "type": "h2", "text": "Misuse and fines" },
+      { "type": "p", "text": "The fine is $250 for any of the following:" },
+      {
+        "type": "ul",
+        "items": [
+          "Parking in an accessible space without an accessible plate or placard.",
+          "Parking with a placard when the person with the disability is not in the vehicle.",
+          "Making, issuing, possessing or knowingly using an imitation, counterfeit or transferable placard or plate."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Ninety percent of each fine goes to the state personal care assistance program. The marked access aisle beside a space is there so that people who use wheelchairs and other mobility devices can get in and out of a vehicle, so keep it clear."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.456",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47681"
+      },
+      {
+        "label": "KRS 189.458",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47682"
+      },
+      {
+        "label": "KRS 189.459",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45837"
+      },
+      {
+        "label": "KRS 186.042",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=51055"
+      },
+      {
+        "label": "KRS 189.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57417"
+      },
+      {
+        "label": "Kentucky Transportation Cabinet, Disabled Parking Permits",
+        "href": "https://drive.ky.gov/Vehicles/Pages/Disabled-Parking-Permits.aspx"
+      }
+    ]
+  }
+]

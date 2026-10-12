@@ -1,0 +1,668 @@
+[
+  {
+    "slug": "landlords-and-tenants",
+    "title": "Landlords and tenants",
+    "category": "Home, property and neighbors",
+    "summary": "How Kentucky law treats deposits, repairs, landlord entry and eviction, and why the rules depend on where the rental is located.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky has no single landlord and tenant law. Detailed rules on deposits, repairs and notice come from the Uniform Residential Landlord and Tenant Act, which applies only where a city or county has adopted it. Elsewhere, the lease and older statutes control."
+      },
+      { "type": "h2", "text": "Where the Act applies" },
+      {
+        "type": "p",
+        "text": "A city or county may adopt the Act only in full and without changes (KRS 383.500). A 2016 legislative staff report listed Alexandria, Bellevue, Dayton, Newport, Silver Grove, Southgate and Wilder among the cities that had adopted it. That list is dated, so confirm with the city clerk. A lease cannot waive rights under the Act (KRS 383.570)."
+      },
+      { "type": "h2", "text": "Deposits, repairs and entry" },
+      {
+        "type": "ul",
+        "items": [
+          "A security deposit must be kept in a separate bank account, and the tenant must receive a list of existing damage before paying it. A landlord who skips these steps can lose the right to keep the deposit (KRS 383.580).",
+          "The landlord must follow health and safety codes, keep the unit fit and habitable, keep common areas clean and safe, and in most rentals supply running water, hot water and, from October 1 to May 1, reasonable heat (KRS 383.595).",
+          "The tenant must keep the unit clean and safe, not damage it and not disturb the neighbors (KRS 383.605).",
+          "Except in an emergency, the landlord must generally give at least two days’ notice before entering and may enter only at reasonable times (KRS 383.615)."
+        ]
+      },
+      { "type": "h2", "text": "Ending a tenancy" },
+      {
+        "type": "p",
+        "text": "Under the Act, a landlord may end the lease if rent remains unpaid seven days after written notice. Other serious violations require at least 14 days’ written notice and, generally, a chance to fix the problem. Either side may end a month-to-month tenancy with 30 days’ written notice (KRS 383.660, 383.695). Where the Act is not in force, a landlord may end a tenancy at will, meaning one with no fixed term, with one month’s written notice (KRS 383.195)."
+      },
+      { "type": "h2", "text": "Eviction goes through the court" },
+      {
+        "type": "p",
+        "text": "A landlord who wants a tenant out must use the courts. The Act bars retaking a unit by lockout or by cutting off essential services such as heat or water, and a locked-out tenant may recover up to three months’ rent and reasonable attorney’s fees (KRS 383.655, 383.690)."
+      },
+      {
+        "type": "p",
+        "text": "An eviction case is called a “forcible detainer” and is filed in District Court. The tenant must get at least three days’ notice of the hearing. If the landlord wins, the tenant has seven days to appeal and must pay the rent owed into court to do so. If there is no appeal, the court can issue a warrant for the sheriff or a constable to return possession to the landlord (KRS 383.210 to 383.255)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS Chapter 383, rental of property, forcible entry and detainer, and the Uniform Residential Landlord and Tenant Act",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39159"
+      },
+      {
+        "label": "KRS 383.500",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35717"
+      },
+      {
+        "label": "KRS 383.580",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35733"
+      },
+      {
+        "label": "KRS 383.660",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35749"
+      },
+      {
+        "label": "KRS 383.245",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35708"
+      },
+      {
+        "label": "Legislative Research Commission, local mandate statement for 2016 House Bill 380",
+        "href": "https://apps.legislature.ky.gov/record/16RS/hb380/LM.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "snow-and-ice",
+    "title": "Snow and ice: a property owner’s liability",
+    "category": "Home, property and neighbors",
+    "summary": "When a Kentucky property owner can be held responsible for a fall on snow or ice, and how court decisions have changed the old rule.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky has no statute that says who pays when someone falls on snow or ice. The rules come from court decisions, and those decisions have shifted. A property owner is no longer automatically protected because the snow or ice was natural and easy to see."
+      },
+      { "type": "h2", "text": "The old rule and what replaced it" },
+      {
+        "type": "p",
+        "text": "For decades, Kentucky courts held that an owner had no duty to remove or warn about natural outdoor hazards, such as snow and ice, that were as obvious to the visitor as to the owner. In 2010 the Kentucky Supreme Court ruled in Kentucky River Medical Center v. McIntosh that an obvious danger does not automatically defeat a claim if the owner should have expected someone to be hurt anyway. In 2015, in Carter v. Bullitt Host, the court applied that reasoning to ice at a hotel entrance and held that the old snow and ice rule is no longer good law."
+      },
+      {
+        "type": "p",
+        "text": "The question now is whether each side acted reasonably. Kentucky uses comparative fault, which means a judge or jury assigns each party a percentage of the blame, and an injured person’s recovery is reduced by his or her own share (KRS 411.182). An owner who has done everything reasonable under the circumstances is not liable."
+      },
+      { "type": "h2", "text": "Businesses and homeowners" },
+      {
+        "type": "p",
+        "text": "The Supreme Court’s recent decisions involved businesses, which must use reasonable care to keep their premises reasonably safe for customers. A social guest at a home is treated as a “licensee,” meaning a person present with permission but not for the owner’s business. Kentucky decisions describe the duty to a licensee mainly as warning of dangers the owner knows about that the guest would not notice. Courts have not fully spelled out how the newer cases apply to a private home."
+      },
+      { "type": "h2", "text": "Public sidewalks and city ordinances" },
+      {
+        "type": "p",
+        "text": "Many cities require owners to keep the public sidewalk beside their property clear, and these ordinances vary. In Schilling v. Schoenle, a 1990 case from Newport, the Kentucky Supreme Court held that an ordinance of this kind creates a duty the owner owes to the city. It does not by itself make the owner liable to an injured pedestrian."
+      },
+      { "type": "h2", "text": "Landlords" },
+      {
+        "type": "p",
+        "text": "A landlord who keeps control of shared areas such as walkways, steps and parking lots must use reasonable care to keep them reasonably safe for tenants. The Kentucky Court of Appeals applied that duty to natural snow and ice in Davis v. Coleman Management Co. (1989). What is reasonable depends on facts such as how long the condition lasted and whether the landlord had a fair chance to deal with it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Kentucky River Medical Center v. McIntosh, 319 S.W.3d 385 (Ky. 2010)",
+        "href": "https://static.case.law/sw3d/319/html/0385-01.html"
+      },
+      {
+        "label": "Carter v. Bullitt Host, LLC, 471 S.W.3d 288 (Ky. 2015)",
+        "href": "https://static.case.law/sw3d/471/html/0288-01.html"
+      },
+      {
+        "label": "KRS 411.182",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=17782"
+      },
+      {
+        "label": "Schilling v. Schoenle, 782 S.W.2d 630 (Ky. 1990)",
+        "href": "https://static.case.law/sw2d/782/html/0630-01.html"
+      },
+      {
+        "label": "Davis v. Coleman Management Co., 765 S.W.2d 37 (Ky. App. 1989)",
+        "href": "https://static.case.law/sw2d/765/html/0037-01.html"
+      },
+      {
+        "label": "Scifres v. Kraft, 916 S.W.2d 779 (Ky. App. 1996)",
+        "href": "https://static.case.law/sw2d/916/html/0779-01.html"
+      }
+    ]
+  },
+  {
+    "slug": "trees-and-bushes",
+    "title": "Trees and bushes on a property line",
+    "category": "Home, property and neighbors",
+    "summary": "What a neighbor may trim, when an owner is liable for a fallen tree, and the damages for cutting down someone else’s tree in Kentucky.",
+    "body": [
+      {
+        "type": "p",
+        "text": "In Kentucky you may trim branches and roots that cross onto your own land, back to the boundary line. You may not cut down or take a tree that belongs to someone else. Most of these rules come from court decisions, not statutes."
+      },
+      {
+        "type": "h2",
+        "text": "Branches, roots and leaves that cross the line"
+      },
+      {
+        "type": "p",
+        "text": "Kentucky courts follow what is called the Massachusetts rule. An owner may grow trees on all of his or her land, even though limbs and roots will naturally spread next door. The neighbor’s remedy is self-help, which means cutting the limbs or roots back to the boundary line. The neighbor generally cannot recover money for shade, leaves, twigs or similar natural debris from a healthy tree. The Court of Appeals adopted this rule in a 1985 Kenton County case, Schwalbach v. Forest Lawn Memorial Park, and applied it in 2019 to bushes that had grown through a fence. The decisions do not authorize going onto the neighbor’s land or cutting down the tree itself."
+      },
+      { "type": "h2", "text": "When a tree falls" },
+      {
+        "type": "p",
+        "text": "Courts separate healthy trees from dead or dangerous ones. In Schwalbach the court said a dead tree that is likely to fall could support a claim for negligence, meaning a failure to use reasonable care, or for nuisance. In Lemon v. Edwards (1961), Kentucky’s highest court noted that courts generally hold an owner liable when the owner knows a tree is defective, but held that the owner of rural, wooded land along a little-used road had no duty to inspect for decayed trees. In 2008 the Kentucky Supreme Court declined to decide whether owners in populated areas are liable when a dead or defective tree falls on a neighbor’s property, so that question remains open."
+      },
+      { "type": "h2", "text": "Trees on the boundary itself" },
+      {
+        "type": "p",
+        "text": "Kentucky’s published decisions do not lay out a detailed rule for a tree whose trunk stands on the line. Both owners may have an interest in such a tree, so removing it without the other owner’s agreement invites a dispute. A survey may be needed to know where the trunk stands."
+      },
+      { "type": "h2", "text": "Cutting a neighbor’s tree" },
+      {
+        "type": "p",
+        "text": "A person who cuts down timber on another’s land without a legal right, in order to take it for his or her own use, owes the owner three times the stumpage value, meaning the value of the standing timber, and three times the cost of any property damage, plus the owner’s legal costs. This applies whether or not the person believed the cutting was allowed (KRS 364.130). A homeowner or farmer maintaining a fence row who makes a good-faith mistake about an unmarked boundary owes only the reasonable value of the timber, actual damages and legal costs."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 364.130",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=46079"
+      },
+      {
+        "label": "Schwalbach v. Forest Lawn Memorial Park, 687 S.W.2d 551 (Ky. App. 1985)",
+        "href": "https://static.case.law/sw2d/687/html/0551-01.html"
+      },
+      {
+        "label": "Saufley v. Reed, 576 S.W.3d 601 (Ky. App. 2019)",
+        "href": "https://static.case.law/sw3d/576/html/0601-01.html"
+      },
+      {
+        "label": "Lemon v. Edwards, 344 S.W.2d 822 (Ky. 1961)",
+        "href": "https://static.case.law/sw2d/344/html/0822-01.html"
+      },
+      {
+        "label": "Commonwealth, Transportation Cabinet v. Sexton, 256 S.W.3d 29 (Ky. 2008)",
+        "href": "https://static.case.law/sw3d/256/html/0029-01.html"
+      }
+    ]
+  },
+  {
+    "slug": "liability-to-trespassers",
+    "title": "Liability to trespassers",
+    "category": "Home, property and neighbors",
+    "summary": "What a Kentucky property owner owes to trespassers, guests and customers, the special rule for children, and the limits on using force.",
+    "body": [
+      {
+        "type": "p",
+        "text": "A Kentucky property owner is not liable to a trespasser for injuries suffered on the property unless the injuries were intentionally inflicted by the owner or someone acting for the owner (KRS 381.232). People who are on the land with permission are owed more."
+      },
+      { "type": "h2", "text": "Three kinds of visitors" },
+      {
+        "type": "ul",
+        "items": [
+          "A trespasser enters without any right, lawful authority or invitation (KRS 381.231). The Kentucky Supreme Court reads “intentionally inflicted” to include willful, wanton or reckless conduct, such as setting a trap.",
+          "A licensee is on the land with the owner’s consent, such as a social guest. In general the owner must warn of hidden dangers the owner knows about.",
+          "An invitee, such as a customer, is there for the owner’s business. The owner must use reasonable care to keep the premises reasonably safe."
+        ]
+      },
+      { "type": "h2", "text": "Children and “attractive nuisance”" },
+      {
+        "type": "p",
+        "text": "The trespasser statute does not cover children who fall within the “attractive nuisance” doctrine. Under that court-made rule, an owner can be liable when a trespassing child is hurt by an artificial condition, meaning something built or placed on the land. The owner must know or have reason to know that children are likely to come onto the land and that the condition poses an unreasonable risk of death or serious injury. The child must be too young to recognize the danger, the burden of removing it must be slight compared with the risk, and the owner must have failed to use reasonable care."
+      },
+      {
+        "type": "p",
+        "text": "There is no fixed age cutoff. In Hayes v. D.C.I. Properties, a 2018 case from Campbell County, the Supreme Court held that a 16-year-old who understood the risk of driving construction equipment was not protected."
+      },
+      { "type": "h2", "text": "Recreational use" },
+      {
+        "type": "p",
+        "text": "An owner who lets people use land for recreation such as hunting, fishing, hiking or swimming owes them no duty to keep the land safe or to warn of dangers. The protection does not apply to a willful or malicious failure to guard or warn, or when the owner charges for entry (KRS 411.190)."
+      },
+      { "type": "h2", "text": "Using force" },
+      {
+        "type": "p",
+        "text": "A person may use physical force when he or she believes it is immediately necessary to prevent criminal trespass, burglary, robbery or theft. Deadly force to protect property is justified only in narrower cases: when the other person is trying to take the dwelling without a claim of right, is committing or attempting burglary, robbery or another felony involving force in the dwelling, or is committing or attempting arson, or in the circumstances covered by KRS 503.055 (KRS 503.080). That section presumes that a person who unlawfully and forcibly enters a dwelling or occupied vehicle intends an unlawful act involving force or violence. Simple trespass on land is not on the list."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 381.231",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35428"
+      },
+      {
+        "label": "KRS 381.232",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35429"
+      },
+      {
+        "label": "KRS 411.190",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58144"
+      },
+      {
+        "label": "KRS 503.055",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19670"
+      },
+      {
+        "label": "KRS 503.080",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55453"
+      },
+      {
+        "label": "Hayes v. D.C.I. Properties-D KY, LLC, 563 S.W.3d 619 (Ky. 2018)",
+        "href": "https://static.case.law/sw3d/563/html/0619-01.html"
+      }
+    ]
+  },
+  {
+    "slug": "timber-cutting",
+    "title": "Timber cutting damages",
+    "category": "Home, property and neighbors",
+    "summary": "Kentucky’s triple damages rule for cutting another person’s timber, how written notice limits it, when it is a crime, and steps before a harvest.",
+    "body": [
+      {
+        "type": "p",
+        "text": "A person who cuts timber on someone else’s land without a legal right, in order to take it for his or her own use, owes the owner three times the value of the timber. It does not matter whether the person believed the cutting was authorized (KRS 364.130)."
+      },
+      { "type": "h2", "text": "What the owner can recover" },
+      {
+        "type": "p",
+        "text": "The statute gives the owner three times the stumpage value, meaning the value of the trees as they stood, three times the cost of any damage to the property, and the owner’s legal costs. The claim is a civil lawsuit, separate from any criminal case."
+      },
+      { "type": "h2", "text": "How notice limits the damages" },
+      {
+        "type": "p",
+        "text": "The law does not flatly require a logger to notify the neighbors, but skipping the steps below leaves the logger exposed to triple damages. A court may limit the award to the reasonable value of the timber, actual property damage and legal costs if both steps were taken before cutting:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A signed statement was obtained from the person believed to own the trees, saying that all the trees to be cut were on that person’s land and giving written permission to cut them.",
+          "The adjoining landowners either agreed in writing that the trees were not on their property, or were notified of the planned cut in writing by certified mail, restricted delivery, return receipt requested, and raised no objection."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If a notified neighbor sends no written objection within seven days of signing for the letter, the law presumes, for setting the penalty only, that the neighbor did not object. A homeowner or farmer maintaining a fence row who cuts a neighbor’s trees through a good-faith mistake about an unmarked boundary also owes only the lower amount."
+      },
+      { "type": "h2", "text": "Timber theft as a crime" },
+      {
+        "type": "p",
+        "text": "The triple damages statute applies in addition to the theft laws. Taking timber can be charged as theft by unlawful taking, and the charge depends on value. Under $500 is a Class B misdemeanor, $500 to under $1,000 is a Class A misdemeanor, $1,000 to under $10,000 is a Class D felony, and higher values carry more serious felony classes (KRS 514.030)."
+      },
+      { "type": "h2", "text": "Rules for loggers and steps for owners" },
+      {
+        "type": "p",
+        "text": "A commercial timber harvest generally must have on site a logger in charge who has completed the state’s Master Logger Program, and loggers must use best management practices that protect water quality (KRS 149.342, 149.344). These rules govern how a harvest is carried out, not who owns the trees."
+      },
+      {
+        "type": "p",
+        "text": "The Kentucky Division of Forestry suggests that woodland owners keep a copy of the deed, mark or post their boundaries, stay in contact with adjoining owners, and consider hiring a consulting forester to value the timber."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 364.130",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=46079"
+      },
+      {
+        "label": "KRS 514.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55482"
+      },
+      {
+        "label": "KRS 149.342",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=1884"
+      },
+      {
+        "label": "KRS 149.344",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=44396"
+      },
+      {
+        "label": "Kentucky Energy and Environment Cabinet, Division of Forestry: Timber theft and trespass",
+        "href": "https://eec.ky.gov/Natural-Resources/Forestry/forest-stewardship-program-and-landowner-services/Pages/Timber-Theft-and-Trespass.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "swimming-pools",
+    "title": "Swimming pools",
+    "category": "Home, property and neighbors",
+    "summary": "What Kentucky law expects of home pool owners on barriers, child trespassers and guests, plus how public pools are regulated.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky’s residential building code requires a barrier around an outdoor in-ground pool at a one- or two-family home, and local rules may add more. A pool owner’s responsibility to guests and to children who wander in comes from court decisions."
+      },
+      { "type": "h2", "text": "Barrier requirements" },
+      {
+        "type": "p",
+        "text": "The Kentucky Residential Code, section R326, covers pools, spas and hot tubs that hold water more than 24 inches deep. For an outdoor in-ground pool, the barrier must:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Stand at least 48 inches above grade, measured on the side facing away from the pool, with no more than 4 inches of clearance at the bottom.",
+          "Have no opening that a 4-inch sphere could pass through.",
+          "Have pedestrian gates that open outward from the pool, close on their own and latch on their own.",
+          "Include added protection, such as a powered safety cover or door alarms, where a wall of the house forms part of the barrier."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Spas and hot tubs with a safety cover that meets the ASTM F 1346 standard are exempt. The code lists pools built completely above grade as an exception to its scope. State regulation does not require permits or inspections for a single-family dwelling unless a local ordinance does, and local zoning may set its own pool rules."
+      },
+      { "type": "h2", "text": "Children and “attractive nuisance”" },
+      {
+        "type": "p",
+        "text": "Kentucky courts apply the “attractive nuisance” doctrine to trespassing children who are too young to recognize a danger. The Kentucky Supreme Court has said the doctrine does not apply to artificial bodies of contained water, such as ponds and reservoirs, unless there is a hidden danger or an unreasonable risk of death or serious harm (Mason v. City of Mt. Sterling, 2003). Courts decide these cases on their facts."
+      },
+      { "type": "h2", "text": "Guests and insurance" },
+      {
+        "type": "p",
+        "text": "A social guest is a “licensee,” a person present with the owner’s permission. The owner must warn of hidden dangers the owner knows about, but has no duty to warn of a risk that is open and obvious. In Scifres v. Kraft (1996), the Court of Appeals held that hosts were not liable to an adult guest who dove into their pool and struck the far wall. Insurance coverage for pools, slides and diving boards depends on the terms of the owner’s policy."
+      },
+      { "type": "h2", "text": "Public and semi-public pools" },
+      {
+        "type": "p",
+        "text": "A pool at a private single-family home that is used only by the occupants and their guests is not a “public swimming and bathing facility.” Other pools, such as those at apartment complexes, hotels and clubs, fall under 902 KAR 10:120, which requires an annual permit, sets water quality and safety standards, and provides for regular inspections. In Campbell County the Northern Kentucky Health Department inspects these pools and takes complaints."
+      }
+    ],
+    "sources": [
+      {
+        "label": "2018 Kentucky Residential Code, Third Edition (August 2024), section R326",
+        "href": "https://dhbc.ky.gov/Documents/2018%20Kentucky%20Residential%20Code%203d%20Ed.pdf"
+      },
+      {
+        "label": "815 KAR 7:125, Kentucky Residential Code",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/815/007/125/"
+      },
+      {
+        "label": "902 KAR 10:120, Kentucky public swimming and bathing facility operations",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/902/010/120/"
+      },
+      {
+        "label": "Mason v. City of Mt. Sterling, 122 S.W.3d 500 (Ky. 2003)",
+        "href": "https://static.case.law/sw3d/122/html/0500-01.html"
+      },
+      {
+        "label": "Scifres v. Kraft, 916 S.W.2d 779 (Ky. App. 1996)",
+        "href": "https://static.case.law/sw2d/916/html/0779-01.html"
+      },
+      {
+        "label": "Northern Kentucky Health Department: Swimming pools",
+        "href": "https://nkyhealth.org/swimmingpools/"
+      }
+    ]
+  },
+  {
+    "slug": "septic-systems",
+    "title": "Septic systems",
+    "category": "Home, property and neighbors",
+    "summary": "Permits, installers, upkeep and enforcement for on-site sewage systems in Kentucky, and what buyers and sellers should check.",
+    "body": [
+      {
+        "type": "p",
+        "text": "In Kentucky no one may build, install or alter an on-site sewage disposal system, commonly called a septic system, without first getting a permit from the local health department (KRS 211.350). In Campbell County that is the Northern Kentucky Health Department."
+      },
+      { "type": "h2", "text": "Site evaluation and permit" },
+      {
+        "type": "p",
+        "text": "The process starts with a site evaluation, in which an inspector checks whether the soil and the lot can support a system. State law gives the health department 15 working days from receiving the application to complete it, with more time if further information is needed. The Northern Kentucky Health Department advises applying before any construction begins and leaving the marked area undisturbed, because disturbing it could void the evaluation."
+      },
+      {
+        "type": "p",
+        "text": "A licensed professional engineer may perform the evaluation and design in place of the health department, which still issues the permit and makes the final inspection."
+      },
+      { "type": "h2", "text": "Who may install" },
+      {
+        "type": "p",
+        "text": "Installation must be done by an installer certified by the state. The statute makes an exception for farmstead owners on their own property, and the regulation allows a permit to be issued to a homeowner under a separate permit rule. The health department inspects a new system before it is covered. A system found not to have been built in line with its permit and the regulations may not be used."
+      },
+      { "type": "h2", "text": "The owner’s duties" },
+      {
+        "type": "p",
+        "text": "State regulation places responsibility for operating and maintaining a system on its owner or user, and requires the owner to protect it from damage and from unnecessary surface water drainage (902 KAR 10:085). A permit or approval is not a guarantee that the system will keep working. Owners of advanced or alternative systems must contract with a qualified operator under an approved maintenance plan."
+      },
+      {
+        "type": "p",
+        "text": "As general guidance, the U.S. Environmental Protection Agency recommends having an average household system inspected at least every three years and says tanks are typically pumped every three to five years."
+      },
+      { "type": "h2", "text": "Failing systems and home sales" },
+      {
+        "type": "p",
+        "text": "For a system that is already failing, the Northern Kentucky Health Department directs owners to request a site evaluation. Repairs and alterations require a repair permit. Failing to comply with the state health regulations, or with an order issued under them, is a violation, and each day counts as a separate offense (KRS 211.990)."
+      },
+      {
+        "type": "p",
+        "text": "Kentucky’s seller disclosure form, which applies to sales of single-family homes when a licensed real estate agent is paid, asks about the source and condition of sewage service (KRS 324.360). The Northern Kentucky Health Department will inspect an existing system on request for a buyer or seller."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 211.350",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=46327"
+      },
+      {
+        "label": "902 KAR 10:085, Kentucky on-site sewage disposal systems",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/902/010/085/"
+      },
+      {
+        "label": "KRS 211.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=8562"
+      },
+      {
+        "label": "KRS 324.360",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=31615"
+      },
+      {
+        "label": "Northern Kentucky Health Department: Septic systems",
+        "href": "https://nkyhealth.org/septic"
+      },
+      {
+        "label": "U.S. Environmental Protection Agency: How to care for your septic system",
+        "href": "https://www.epa.gov/septic/how-care-your-septic-system"
+      }
+    ]
+  },
+  {
+    "slug": "pets-and-dogs",
+    "title": "Pets, dogs and their owners",
+    "category": "Home, property and neighbors",
+    "summary": "Kentucky rules on rabies shots, licensing and leash laws, an owner’s liability for dog bites, vicious dogs and animal cruelty offenses.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky law requires rabies vaccination, makes a dog’s owner responsible for damage the dog causes, and makes cruelty to animals a crime. Licensing, leash and nuisance rules are mostly set by cities and counties, so they vary."
+      },
+      { "type": "h2", "text": "Vaccination, licensing and control" },
+      {
+        "type": "ul",
+        "items": [
+          "Every dog, cat and ferret must be vaccinated against rabies by four months of age and revaccinated when the vaccine’s coverage ends. A dog must wear its rabies tag (KRS 258.015).",
+          "Counties and cities may create licensing programs and other animal ordinances that do not conflict with state law (KRS 258.135, 258.365).",
+          "An owner must keep a dog under proper care and control so that it does not violate a local nuisance ordinance (KRS 258.265).",
+          "Officers must impound a dog found running at large without a rabies tag or other identification. It is held at least five days unless reclaimed (KRS 258.215)."
+        ]
+      },
+      { "type": "h2", "text": "Bites and liability" },
+      {
+        "type": "p",
+        "text": "An owner whose dog causes damage to a person, livestock or other property is responsible for that damage (KRS 258.235). The Kentucky Supreme Court has read this as strict liability, meaning the injured person need not prove the owner was careless, although that person’s own fault can reduce the award. “Owner” includes anyone who keeps or harbors the dog."
+      },
+      {
+        "type": "p",
+        "text": "A dog, cat or ferret that bites a person must be quarantined by its owner for 10 days from the bite (KRS 258.215)."
+      },
+      { "type": "h2", "text": "Vicious dogs" },
+      {
+        "type": "p",
+        "text": "A person attacked by a dog may file a complaint in District Court charging the owner or keeper with harboring a vicious dog. If the court finds the dog attacked a person viciously and without cause while off the owner’s premises, it must order the dog securely confined or may order it destroyed. A confined dog must be kept in a locked enclosure at least seven feet high or a locked kennel run with a secured top."
+      },
+      { "type": "h2", "text": "Cruelty and neglect" },
+      {
+        "type": "ul",
+        "items": [
+          "Cruelty to animals in the second degree, a Class A misdemeanor, covers intentional or wanton mistreatment, including abandonment, beating and failing to provide adequate food, drink, space or health care (KRS 525.130).",
+          "Cruelty to animals in the first degree, a Class D felony, covers dog fighting (KRS 525.125).",
+          "Torture of a dog or cat is a Class D felony. The statute, amended in 2024, includes extreme pain, serious injury or death that results from restraint, such as being locked in a cage or chained to restrict movement (KRS 525.135)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "State statutes do not set general limits on tethering a dog, so any limits come from local ordinances. The state law shielding a person who breaks into a vehicle to rescue a child does not mention animals (KRS 411.245)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS Chapter 258, animal control and protection",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38481"
+      },
+      {
+        "label": "KRS 258.015",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57596"
+      },
+      {
+        "label": "KRS 258.235",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=12461"
+      },
+      {
+        "label": "Maupin v. Tankersley, 540 S.W.3d 357 (Ky. 2018)",
+        "href": "https://static.case.law/sw3d/540/html/0357-01.html"
+      },
+      {
+        "label": "KRS Chapter 525, including KRS 525.125 and 525.130",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39391"
+      },
+      {
+        "label": "KRS 525.135",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54936"
+      }
+    ]
+  },
+  {
+    "slug": "hunting-laws",
+    "title": "Hunting laws",
+    "category": "Outdoors and recreation",
+    "summary": "An overview of Kentucky hunting rules: licenses, hunter education, landowner permission, deer checking, hunter orange and penalties.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Hunting in Kentucky generally requires a license, any permit for the species, proof of hunter education and the landowner’s permission. Season dates, zones and bag limits change, so check the current guide from the Kentucky Department of Fish and Wildlife Resources at fw.ky.gov."
+      },
+      { "type": "h2", "text": "Licenses and hunter education" },
+      {
+        "type": "p",
+        "text": "A person must hold the license or permit that covers the activity (KRS 150.170). Children under 12 do not need a hunting license, and resident farmland owners, their spouses and dependent children may hunt on their own farmland without one. Anyone born on or after January 1, 1975 must carry proof of hunter education while hunting, unless exempt. A hunter under 12 without certification must be accompanied by an adult who can take immediate control of the firearm or bow (301 KAR 2:185)."
+      },
+      { "type": "h2", "text": "Permission and trespass" },
+      {
+        "type": "p",
+        "text": "No one may enter another person’s land to shoot, hunt, trap or fish without the oral or written permission of the landowner, tenant or another person with authority to give it (KRS 150.092). That includes retrieving game or a dog. Fines run from $100 to $300 for a first offense and $300 to $1,000 for a second. Later offenses bring a one-year loss of license and a fine of at least $1,000, up to a year in jail, or both (KRS 150.990)."
+      },
+      { "type": "h2", "text": "Deer checking and hunter orange" },
+      {
+        "type": "p",
+        "text": "A hunter must log a deer before moving the carcass and report it through the telecheck system, by phone or online, before 11:59 p.m. on the day it is recovered. During the modern gun, muzzleloader and youth gun deer seasons, anyone hunting any species in daylight, and anyone accompanying a hunter, must wear solid hunter orange visible from all sides on the head, back and chest. Waterfowl and dove hunters are excepted (301 KAR 2:172)."
+      },
+      { "type": "h2", "text": "Prohibited methods and penalties" },
+      {
+        "type": "ul",
+        "items": [
+          "Firing a gun, bow or crossbow on, over or across a public roadway (KRS 150.360).",
+          "Taking wildlife from a vehicle, unless a regulation allows it.",
+          "Taking deer outside daylight hours, or shining a spotlight into fields or woods, with exceptions (KRS 150.395).",
+          "Baiting on wildlife management areas and other listed public lands, or hunting turkeys or bears over bait. Deer may currently be hunted over bait on private land, with limits in disease surveillance zones."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Many violations carry fines of $50 to $500, and some add up to six months in jail. Illegally taking a deer, turkey or bear carries a fine of $100 to $1,000, 30 days to a year in jail, or both, plus loss of hunting privileges for one to three years and the cost of replacing the animal (KRS 150.990). Local ordinances may also restrict firing guns near homes."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS Chapter 150, fish and wildlife resources",
+        "href": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37729"
+      },
+      {
+        "label": "KRS 150.092",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=1953"
+      },
+      {
+        "label": "KRS 150.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56842"
+      },
+      {
+        "label": "301 KAR 2:172, Deer hunting seasons, zones, and requirements",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/301/002/172/"
+      },
+      {
+        "label": "301 KAR 2:185, Hunter education",
+        "href": "https://apps.legislature.ky.gov/law/kar/titles/301/002/185/"
+      },
+      {
+        "label": "Kentucky Department of Fish and Wildlife Resources: Hunting regulations",
+        "href": "https://fw.ky.gov/Hunt/Pages/Hunting-Regulations.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "golfer-liability",
+    "title": "Golfer liability",
+    "category": "Outdoors and recreation",
+    "summary": "When a golfer or a golf course may be legally responsible in Kentucky for injuries or damage caused by a golf ball or a golf cart.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky has no statute on injuries caused by golf balls. The rules come from a small number of court decisions, some of them old, so they should be read with caution. In general a golfer is not responsible for every bad shot, but can be liable for failing to use reasonable care for people within range."
+      },
+      { "type": "h2", "text": "Care and the duty to warn" },
+      {
+        "type": "p",
+        "text": "In Kelly v. Forester (1958), Kentucky’s highest court repeated its earlier statement that a golfer must use ordinary care for the safety of people reasonably within the range of danger, and must give notice to people who are unaware a shot is coming and are placed so as to be in danger. The court accepted that no player can fully control where a ball goes."
+      },
+      {
+        "type": "p",
+        "text": "In that case a golfer mishit a shot and struck his playing partner, who was standing off to the side and watching the swing. The golfer was not liable. The court said the duty to warn ordinarily reaches only people in the intended line of play."
+      },
+      { "type": "h2", "text": "Risks that players accept" },
+      {
+        "type": "p",
+        "text": "In Hoke v. Cullinan (1995), a case about a tennis injury, the Kentucky Supreme Court held that a participant in an athletic contest is liable to another participant only for reckless or intentional conduct, not for ordinary carelessness. That decision did not involve golf, and the older golf cases speak of ordinary care, so how the two fit together would be for a court to decide. Hoke concerns players, not passersby or neighbors."
+      },
+      { "type": "h2", "text": "Roads and homes beside a course" },
+      {
+        "type": "p",
+        "text": "In Lexington Country Club v. Stevenson (1965), a passenger in a car on the club’s driveway, which crossed a fairway, lost an eye to a golf ball. The court held the club liable for exposing its guests to an unnecessary risk without warnings or special rules for the hole. The jury cleared the golfer, who had played the hole in the normal way."
+      },
+      {
+        "type": "p",
+        "text": "Kentucky’s published decisions do not appear to set a special rule for homes beside a course. Ordinary principles of reasonable care apply, and the deed restrictions or easements for a lot next to a course may address stray balls."
+      },
+      { "type": "h2", "text": "Golf carts and alcohol" },
+      {
+        "type": "p",
+        "text": "A city or county may allow golf carts on designated public roads by ordinance. The road must have a posted speed limit of 35 miles per hour or less, the operator must carry a valid driver’s license, the cart must be insured, and the operator must follow the traffic laws (KRS 189.286). Kentucky’s impaired driving statute applies to operating a motor vehicle “anywhere in this Commonwealth” (KRS 189A.010)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Kelly v. Forester, 311 S.W.2d 547 (Ky. 1958)",
+        "href": "https://static.case.law/sw2d/311/html/0547-01.html"
+      },
+      {
+        "label": "Hoke v. Cullinan, 914 S.W.2d 335 (Ky. 1995)",
+        "href": "https://static.case.law/sw2d/914/html/0335-01.html"
+      },
+      {
+        "label": "Lexington Country Club v. Stevenson, 390 S.W.2d 137 (Ky. 1965)",
+        "href": "https://static.case.law/sw2d/390/html/0137-01.html"
+      },
+      {
+        "label": "KRS 189.286",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=50004"
+      },
+      {
+        "label": "KRS 189A.010",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58145"
+      }
+    ]
+  }
+]

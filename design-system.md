@@ -126,7 +126,10 @@ Measure: body copy is capped at about 68 characters (`max-w-[42rem]`).
   button; a 3px bronze rule beneath. The header is sticky and gains a shadow
   once the page scrolls. The links show from 1280px. Below that they collapse
   into a shadcn `Sheet` opened from a menu button, and the "Contact" button
-  stays in the bar from 768px.
+  stays in the bar from 768px. "Services" and "Resources" open a menu on hover
+  or keyboard focus: a white panel with a 3px bronze top rule and the raised
+  shadow. Each also links to an index page listing the same pages, which is
+  what touch screens and the mobile menu use.
 - **Footer.** `navy-950`. Seal and office name, address, site links, then a
   hairline and a legal row for the policy links and "Cookie settings".
 - **Form fields** (for later pages). 48px tall, 2px radius, 1px `silver-300`
@@ -137,6 +140,10 @@ Measure: body copy is capped at about 68 characters (`max-w-[42rem]`).
   the right edge: a bronze label (the office name, or a link back to the parent
   page), the page title and an optional lead. Compact: 56px, 64px and 80px of
   vertical padding at mobile, tablet and desktop.
+- **Service and article pages.** Text in a seven-column measure on the left
+  (H2 at 31/37 desktop, 26/36 mobile), with contact details, forms and sources
+  in a four-column aside on the right. Steps are numbered in bronze Besley;
+  lists use a bronze check and hairline rules.
 - **Office contact.** Another office's name, address, phone and hours on
   `silver-50` with a 3px bronze rule down the left edge. Used wherever the site
   sends people elsewhere.

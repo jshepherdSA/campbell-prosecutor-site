@@ -12,8 +12,14 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
-import { nav, site } from "@/lib/site";
+import { nav, secondaryNav, site } from "@/lib/site";
 import { cn } from "@/lib/utils";
+
+// "Contact" is the button at the bottom of the menu, so it is left out of the list.
+const menu = [
+  ...nav.filter((item) => item.href !== "/#contact"),
+  ...secondaryNav.filter((item) => item.href !== "/open-records"),
+];
 
 export function MobileNav() {
   const [open, setOpen] = useState(false);
@@ -42,14 +48,17 @@ export function MobileNav() {
             {site.county} &bull; {site.circuit}
           </SheetDescription>
         </SheetHeader>
-        <nav aria-label="Primary" className="px-6 py-2">
+        <nav
+          aria-label="Primary"
+          className="min-h-0 flex-1 overflow-y-auto px-6 py-2"
+        >
           <ul className="divide-y divide-silver-200">
-            {nav.map((item) => (
+            {menu.map((item) => (
               <li key={item.href}>
                 <Link
                   href={item.href}
                   onClick={close}
-                  className="block py-4 font-heading text-xl font-semibold text-navy-800"
+                  className="block py-3.5 font-heading text-xl font-semibold text-navy-800"
                 >
                   {item.label}
                 </Link>
@@ -57,7 +66,7 @@ export function MobileNav() {
             ))}
           </ul>
         </nav>
-        <div className="mt-auto space-y-4 bg-silver-50 px-6 py-6 text-[0.9375rem] leading-6">
+        <div className="space-y-4 bg-silver-50 px-6 py-6 text-[0.9375rem] leading-6">
           <address className="not-italic">
             <span className="block font-bold text-navy-800">{site.office}</span>
             {site.address.street}

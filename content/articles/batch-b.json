@@ -1,0 +1,750 @@
+[
+  {
+    "slug": "drinking-and-driving",
+    "title": "Drinking and driving",
+    "category": "Driving and traffic",
+    "summary": "Kentucky’s DUI law: the legal limits, drug impairment, breath and blood tests, penalties by offense, ignition interlock and when DUI is a felony.",
+    "body": [
+      {
+        "type": "p",
+        "text": "In Kentucky it is illegal to operate or be in physical control of a motor vehicle with an alcohol concentration of 0.08 or more, or while under the influence of alcohol or any other substance that impairs driving. This is driving under the influence, or DUI."
+      },
+      { "type": "h2", "text": "The limits" },
+      {
+        "type": "ul",
+        "items": [
+          "Drivers 21 and older: 0.08 or more, based on a breath or blood test taken within two hours of driving.",
+          "Drivers under 21: 0.02 or more. Below 0.08 the penalty is a $100 to $500 fine or 20 hours of community service, plus a license suspension.",
+          "Commercial drivers: 0.04 or more while driving a commercial vehicle."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A test number is not required. A driver under 0.08 can be convicted if other evidence shows impairment. The law also covers any other substance that impairs driving, including prescribed medicine, and bars driving with certain listed controlled substances in the blood unless taken under a valid prescription."
+      },
+      { "type": "h2", "text": "Breath and blood tests" },
+      {
+        "type": "p",
+        "text": "Anyone who drives in Kentucky is treated as having consented to breath, blood or urine testing when an officer has reasonable grounds to believe a DUI has occurred. This is called implied consent. Refusing a test leads the court to suspend the license at arraignment, the first court appearance. Refusing a breath test can also be used as evidence and raises the mandatory minimum jail time on a second or later conviction. A judge can order a blood test by warrant."
+      },
+      { "type": "h2", "text": "Penalties within ten years" },
+      {
+        "type": "p",
+        "text": "Penalties increase with each offense within ten years, counted between offense dates."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "First: $200 to $500 fine, 48 hours to 30 days in jail, or both, and a six-month license suspension.",
+          "Second: $350 to $500 fine, seven days to six months in jail and an 18-month suspension.",
+          "Third: $500 to $1,000 fine, 30 days to 12 months in jail and a 36-month suspension.",
+          "Fourth or later: a Class D felony, one to five years in prison with at least 120 days served, and a 60-month suspension."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Minimum jail terms rise when an aggravating circumstance is present, such as a test result of 0.15 or more, driving more than 30 miles per hour over the limit, a passenger under 12, or a crash causing death or serious physical injury. A death caused by impaired driving can be charged as vehicular homicide, a Class B felony."
+      },
+      { "type": "h2", "text": "Ignition interlock" },
+      {
+        "type": "p",
+        "text": "An ignition interlock is a breath tester wired to the ignition that keeps a vehicle from starting when it detects alcohol above 0.02. A person suspended for DUI can apply to the Transportation Cabinet for an ignition interlock license. Going 90 or 120 consecutive days without a violation, depending on the offense, shortens the suspension."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189A.010",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58145"
+      },
+      {
+        "label": "KRS 189A.070",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49566"
+      },
+      {
+        "label": "KRS 189A.103",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53541"
+      },
+      {
+        "label": "KRS 189A.105",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58147"
+      },
+      {
+        "label": "KRS 189A.340",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49873"
+      },
+      {
+        "label": "KRS 281A.210",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=14482"
+      }
+    ]
+  },
+  {
+    "slug": "open-containers",
+    "title": "Open alcoholic beverage containers",
+    "category": "Driving and traffic",
+    "summary": "Kentucky’s rules on open alcohol containers in vehicles, the exceptions, and the related offenses of drinking and being intoxicated in public.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky law makes it an offense to have an open container of alcohol in the passenger area of a motor vehicle on a public highway or its right-of-way. Separate laws cover drinking in public places and being intoxicated in public."
+      },
+      { "type": "h2", "text": "Open containers in a vehicle" },
+      {
+        "type": "p",
+        "text": "The rule in KRS 189.530 applies to anyone in the vehicle, driver or passenger. An open container is any bottle, can or other receptacle that holds any amount of an alcoholic beverage and is open, has a broken seal or has had some of its contents removed. Beer, wine and distilled spirits all count."
+      },
+      {
+        "type": "p",
+        "text": "The passenger area is where the driver and passengers sit, plus any place within reach from a seat, including an unlocked glove compartment. It does not include a locked glove compartment. In a vehicle with no trunk, it also does not include the space behind the last upright seat or an area not normally occupied by the driver or a passenger. The fine is $35 to $100."
+      },
+      { "type": "h2", "text": "Exceptions" },
+      {
+        "type": "p",
+        "text": "The law does not apply to a person who is only a passenger, and not the driver, in:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A vehicle used mainly to carry people for pay, such as a bus, taxi or limousine.",
+          "A recreational vehicle, motor home or motor coach."
+        ]
+      },
+      { "type": "h2", "text": "Drinking and intoxication in public" },
+      {
+        "type": "p",
+        "text": "Under KRS 222.202 it is an offense to drink an alcoholic beverage in a public place. That includes a vehicle commonly used to carry passengers, and a depot, platform or waiting room. It is a separate offense, called alcohol intoxication, to appear in a public place plainly under the influence of alcohol to the degree that you may endanger yourself, other people or property, or unreasonably annoy people nearby."
+      },
+      {
+        "type": "p",
+        "text": "A first or second offense carries a fine of at least $25. A third or later offense within 12 months carries a fine of $25 to $100, five to 90 days in jail, or both, and the court may also order a treatment or education program."
+      },
+      {
+        "type": "p",
+        "text": "Public intoxication under KRS 525.100 is a different charge. It applies to a person who is in public under the influence of a controlled substance or other intoxicating substance, not alcohol alone. It is a Class B misdemeanor, which carries up to 90 days in jail."
+      },
+      { "type": "h2", "text": "One incident, one charge" },
+      {
+        "type": "p",
+        "text": "A person cannot be convicted of both the open container offense and a public drinking or intoxication offense for the same course of conduct. The prosecutor chooses which statute to proceed under. Cities and counties may have their own ordinances on alcohol in parks, streets and public events, and those rules vary from place to place."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 189.530",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6410"
+      },
+      {
+        "label": "KRS 189.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57417"
+      },
+      {
+        "label": "KRS 222.202",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=9915"
+      },
+      {
+        "label": "KRS 222.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=9956"
+      },
+      {
+        "label": "KRS 525.100",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19929"
+      },
+      {
+        "label": "KRS 532.090",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20046"
+      }
+    ]
+  },
+  {
+    "slug": "underage-drinking",
+    "title": "Underage drinking and what parents are responsible for",
+    "category": "Family and personal affairs",
+    "summary": "Kentucky law on alcohol and people under 21, the narrow parent exception, adults who supply alcohol, civil liability and license consequences.",
+    "body": [
+      {
+        "type": "p",
+        "text": "In Kentucky a person under 21 may not buy, try to buy or possess alcohol for personal use. Adults who supply alcohol to someone under 21 can face criminal charges."
+      },
+      { "type": "h2", "text": "What people under 21 may not do" },
+      { "type": "p", "text": "Under KRS 244.085, a person under 21 may not:" },
+      {
+        "type": "ul",
+        "items": [
+          "Possess alcohol for personal use, buy it, try to buy it or have someone else buy it.",
+          "Enter a licensed business to buy or be served alcohol.",
+          "Misrepresent their age to get a business to sell or serve alcohol.",
+          "Use a false, fraudulent or altered ID to get alcohol."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For a person aged 18 to 20, each of these is a violation, an offense punished by a fine and not jail. A repeat false ID offense is a Class A misdemeanor. For a person under 18, they are treated as status offenses and are handled in juvenile or family court."
+      },
+      {
+        "type": "h2",
+        "text": "The family exception that exists, and the ones that do not"
+      },
+      {
+        "type": "p",
+        "text": "KRS 244.085 contains no exception for drinking at home or with a parent’s permission. The one family exception is narrow. The crime of unlawful transaction with a minor, described below, does not apply to a parent or guardian of that minor. It does not cover anyone else’s child, so a parent who lets a son’s or daughter’s friends drink is not protected."
+      },
+      { "type": "h2", "text": "Adults who supply alcohol" },
+      {
+        "type": "p",
+        "text": "Under KRS 530.070, a person other than a licensed retailer who knowingly sells, gives, buys or obtains alcohol for a minor commits unlawful transaction with a minor in the third degree. For alcohol, Kentucky law treats anyone under 21 as a minor. The offense is a Class A misdemeanor, which carries up to 12 months in jail. KRS 244.085 also prohibits anyone from helping a person under 21 buy or be served alcohol, and that rule has no parent exception."
+      },
+      { "type": "h2", "text": "Civil liability and driver’s licenses" },
+      {
+        "type": "p",
+        "text": "KRS 413.241 limits lawsuits against licensed bars, restaurants and stores, but only for serving customers who are old enough to buy alcohol. By its terms it does not cover serving someone under 21. Whether an adult who hosts underage drinking at home can be sued for resulting harm depends on the facts and on court decisions."
+      },
+      {
+        "type": "p",
+        "text": "A driver under 21 with an alcohol concentration of 0.02 or more commits DUI and faces a license suspension. For a driver under 18, the suspension lasts until age 18 or for the standard period, whichever is longer. A parent who signs a license application for a child under 18 is jointly liable for damage caused by the child’s negligent driving, unless proof of financial responsibility, such as insurance, is on file for the child."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 244.085",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=50405"
+      },
+      {
+        "label": "KRS 244.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=46009"
+      },
+      {
+        "label": "KRS 530.070",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20003"
+      },
+      {
+        "label": "KRS 413.241",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=42540"
+      },
+      {
+        "label": "KRS 189A.070",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49566"
+      },
+      {
+        "label": "KRS 186.590",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45710"
+      }
+    ]
+  },
+  {
+    "slug": "fake-ids",
+    "title": "Fake IDs",
+    "category": "Crime and public safety",
+    "summary": "The Kentucky offenses for using a false or borrowed ID to buy alcohol, for making or altering IDs, and the effect on a driver’s license.",
+    "body": [
+      {
+        "type": "p",
+        "text": "In Kentucky a person under 21 who uses a false, fraudulent or altered ID to buy or try to buy alcohol commits an offense and can lose driving privileges. Making, altering or lending an ID can bring more serious charges."
+      },
+      { "type": "h2", "text": "Using a fake ID to buy alcohol" },
+      {
+        "type": "p",
+        "text": "KRS 244.085 prohibits a person under 21 from using or trying to use any false, fraudulent or altered identification card or document to obtain alcohol. A first offense is a violation, punishable by a fine of up to $250. Each later offense is a Class A misdemeanor, which carries up to 12 months in jail and a fine of up to $500. For a person under 18 it is a status offense handled in juvenile or family court. Misrepresenting your age to a seller, even without a document, is a separate violation."
+      },
+      {
+        "type": "h2",
+        "text": "Using someone else’s license, or lending yours"
+      },
+      { "type": "p", "text": "KRS 186.610 makes it illegal to:" },
+      {
+        "type": "ul",
+        "items": [
+          "Display or possess a driver’s license you know is fictitious or altered.",
+          "Present another person’s license as your own.",
+          "Lend your license to someone who is not entitled to use it, or knowingly let them use it."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Each is a Class B misdemeanor, which carries up to 90 days in jail and a fine of up to $250. The friend or sibling who hands over a license commits an offense too. Kentucky’s identity theft statute does not apply when a person uses another’s identity only to misrepresent age to get alcohol."
+      },
+      { "type": "h2", "text": "Making or altering IDs" },
+      {
+        "type": "p",
+        "text": "Forgery in the second degree, KRS 516.030, covers falsely making or altering, with intent to defraud or deceive, a document that is or claims to be officially issued by a government agency. A driver’s license or state ID card is that kind of document, so making or altering one can be charged as a Class D felony, punishable by one to five years in prison. Knowingly possessing a forged document of that kind with intent to deceive, and possessing equipment designed for forgery, are also Class D felonies. Which charge applies depends on the facts of each case."
+      },
+      { "type": "h2", "text": "License consequences" },
+      {
+        "type": "p",
+        "text": "A conviction for using a driver’s license, real or fake, as false ID to buy alcohol requires the Transportation Cabinet to revoke the person’s license, or to deny one to a person who is not yet licensed. The period is six months, one year for a person with one earlier conviction for an offense on the mandatory revocation list, and at least two years with more than one. On a first offense, the court may recommend a restricted license instead if the person enrolls in an alcohol or substance abuse education or treatment program."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 244.085",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=50405"
+      },
+      {
+        "label": "KRS 244.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=46009"
+      },
+      {
+        "label": "KRS 186.610",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6091"
+      },
+      {
+        "label": "KRS 186.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56145"
+      },
+      {
+        "label": "KRS 516.030",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=41857"
+      },
+      {
+        "label": "KRS 186.560",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55557"
+      }
+    ]
+  },
+  {
+    "slug": "children-left-in-cars",
+    "title": "Children left in cars",
+    "category": "Family and personal affairs",
+    "summary": "Kentucky criminal law on leaving a young child in a vehicle, the protection for people who break in to rescue a child, and basic safety steps.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky law treats it as a serious crime when a young child dies after being left in a vehicle, and other charges can apply when a child is put in danger. The law also protects a person who damages a vehicle in good faith to rescue a child."
+      },
+      { "type": "h2", "text": "When a child dies" },
+      {
+        "type": "p",
+        "text": "Under KRS 507.040, a person commits manslaughter in the second degree by leaving a child under 8 years old in a motor vehicle under circumstances that show extreme indifference to human life and create a grave risk of death, when the child dies as a result. It is a Class C felony, punishable by five to ten years in prison."
+      },
+      { "type": "h2", "text": "When a child is endangered" },
+      {
+        "type": "p",
+        "text": "A death is not required for charges. Depending on the facts, leaving a child in a vehicle can be charged as:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Wanton endangerment in the first degree, a Class D felony, for conduct showing extreme indifference to human life that creates a substantial danger of death or serious physical injury.",
+          "Wanton endangerment in the second degree, a Class A misdemeanor, for conduct that creates a substantial danger of physical injury.",
+          "Criminal abuse or neglect, when neglect places a child under 13 at substantial risk of serious physical injury."
+        ]
+      },
+      { "type": "h2", "text": "Breaking into a car to rescue a child" },
+      {
+        "type": "p",
+        "text": "KRS 411.245 protects a person from civil liability for damage to a vehicle caused by entering it to remove a minor, if the person:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Reasonably and in good faith believes the child is in imminent danger of physical injury unless removed right away.",
+          "Contacts local law enforcement, the fire department or 911 before entering.",
+          "Uses no more force than is reasonably necessary.",
+          "Stays with the child in a safe place near the vehicle until responders arrive, or, if an emergency requires leaving, puts a written notice on the vehicle with contact information, the reason for entry, the child’s location and the fact that authorities were called."
+        ]
+      },
+      { "type": "h2", "text": "Safety steps" },
+      {
+        "type": "p",
+        "text": "Kentucky State Police report that the temperature inside a car can rise 19 degrees in 10 minutes and that a child’s body heats up three to five times faster than an adult’s. The agency’s advice:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Never leave a child alone in a car, even with the windows down.",
+          "Open the rear door every time you park. Keep something you need, such as a phone or bag, in the back seat.",
+          "Lock parked vehicles at home and keep keys away from children.",
+          "If a child is missing, check vehicles and trunks right away.",
+          "Call 911 if you see a child alone in a vehicle and in distress."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 507.040",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55440"
+      },
+      {
+        "label": "KRS 508.060",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55471"
+      },
+      {
+        "label": "KRS 508.100",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57460"
+      },
+      {
+        "label": "KRS 411.245",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=44844"
+      },
+      {
+        "label": "Kentucky State Police: hot car safety release",
+        "href": "https://www.kentuckystatepolice.ky.gov/news/p12-6-1-2020"
+      }
+    ]
+  },
+  {
+    "slug": "compulsory-school-attendance",
+    "title": "Compulsory school attendance",
+    "category": "Family and personal affairs",
+    "summary": "The ages Kentucky requires school attendance, what truancy means, what schools and courts can do, parent penalties and homeschool notice.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky law requires parents and guardians to send their children to school. The requirement starts at age 6 and runs to age 18, unless the child has graduated or qualifies for another exemption."
+      },
+      { "type": "h2", "text": "Ages covered" },
+      {
+        "type": "p",
+        "text": "KRS 159.010 sets a base range of 6 to 16. It also let local school boards raise the upper age to 18 and required every district to do the same once 55 percent had. The Kentucky Department of Education reported in 2013 that the threshold had been met, which meant the remaining districts had to apply the age 18 rule no later than the 2017 to 2018 school year."
+      },
+      { "type": "h2", "text": "Truancy" },
+      {
+        "type": "p",
+        "text": "A student who is at least 6 and under 18 is a truant after three or more days absent without a valid excuse, or three or more days tardy without one. A student reported as a truant two or more times is a habitual truant. Absences are counted across the whole school year."
+      },
+      {
+        "type": "p",
+        "text": "Each district’s director of pupil personnel enforces attendance and looks for the causes of absences. Under changes that took effect in July 2026, for grades 6 through 12 the director sends the family written notice when a student becomes truant and, at five unexcused absences, notifies the court-designated worker, who handles juvenile complaints for the court system. At 15 or more unexcused absences in a school year, the director reports the parent of a younger child, or a habitual truant in grades 6 through 12, to the county attorney, who decides whether court action is appropriate. Habitual truancy is a status offense, which is handled in juvenile court."
+      },
+      { "type": "h2", "text": "Parents’ responsibility" },
+      {
+        "type": "p",
+        "text": "Parents, guardians and custodians are legally responsible for a child’s attendance violations. Before a case is brought, the director must serve written notice and allow one day to correct the problem. A parent who intentionally fails to comply is fined $100 for a first offense and $250 for a second. For truancy by a public school student, each later offense also carries a $250 fine. For other attendance violations, each later offense is a Class B misdemeanor, which carries up to 90 days in jail. The court may suspend a fine if the child is immediately placed in school."
+      },
+      { "type": "h2", "text": "Private schools and homeschooling" },
+      {
+        "type": "p",
+        "text": "A child who is enrolled in and regularly attends a private, parochial or church school is exempt from public school attendance, and Kentucky treats a homeschool as a private school. The school must report its students’ names, ages and addresses to the local superintendent within two weeks of the start of each school year, and must keep attendance and grade records."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 159.010",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=46050"
+      },
+      {
+        "label": "KRS 159.150",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43959"
+      },
+      {
+        "label": "KRS 159.140",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57480"
+      },
+      {
+        "label": "KRS 159.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58163"
+      },
+      {
+        "label": "Kentucky Department of Education: Homeschool Information Packet",
+        "href": "https://www.education.ky.gov/federal/Documents/Kentucky%20Homeschool%20Information%20Packet.pdf"
+      },
+      {
+        "label": "Kentucky Teacher (Kentucky Department of Education): age 18 policy to be implemented statewide",
+        "href": "https://www.kentuckyteacher.org/news/2013/07/blitz-to-96-a-success-age-18-policy-to-be-implemented-statewide/"
+      }
+    ]
+  },
+  {
+    "slug": "no-pass-no-drive",
+    "title": "The No Pass, No Drive law",
+    "category": "Family and personal affairs",
+    "summary": "How dropping out, unexcused absences or failing grades can cost a Kentucky student under 18 a permit or license, and how to get it back.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky’s No Pass, No Drive law, KRS 159.051, ties a teenager’s driving privileges to school. A student who is at least 15 and under 18 can lose a permit or license, or be denied one, for dropping out or for failing too many classes."
+      },
+      { "type": "h2", "text": "What triggers it" },
+      {
+        "type": "ul",
+        "items": [
+          "Dropping out. A student is also treated as having dropped out after nine or more unexcused absences in the preceding semester. Absences due to suspension count as unexcused.",
+          "Academic deficiency. This means not passing at least four courses, or the equivalent, in the preceding semester."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The law applies to public and private schools. A student who is schooled at home is considered enrolled in school. It no longer applies once a student turns 18."
+      },
+      { "type": "h2", "text": "How the school reports it" },
+      {
+        "type": "p",
+        "text": "A 15, 16 or 17 year old applying for a first permit needs a School Compliance Verification Form from the school showing the student meets the law’s requirements. When a student drops out or is found academically deficient, the school notifies the district superintendent, who has ten days to report the student to the Transportation Cabinet. The cabinet then tells the student that the license, permit or privilege to drive has been revoked or denied and explains the right to a court hearing."
+      },
+      { "type": "h2", "text": "Getting the license back" },
+      {
+        "type": "p",
+        "text": "A student can reapply as early as the end of the semester in which the student enrolls in school and successfully completes the educational requirements. Passing at least four courses across the spring and summer semesters can also qualify. The student must show proof from the school, issued within the past 60 days, of being enrolled and not academically deficient."
+      },
+      { "type": "h2", "text": "Hardship and court review" },
+      {
+        "type": "p",
+        "text": "Within 15 days after the cabinet sends its notice, the student’s custodial parent, legal guardian or next friend, meaning an adult acting for the student, may ask the District Court for a hearing. There is no filing fee and a lawyer is not required. The court will have the license reinstated at no cost if it is satisfied of any one of the following:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The license is needed to meet family obligations or family economic needs that would otherwise create an undue hardship.",
+          "The student is the only licensed driver in the household.",
+          "The student is not a dropout or academically deficient under the law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A student who disagrees with the District Court’s decision may appeal to Circuit Court within 30 days."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 159.051",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55916"
+      },
+      {
+        "label": "KRS 186.560",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55557"
+      },
+      {
+        "label": "Kentucky Department of Education: No Pass/No Drive",
+        "href": "https://education.ky.gov/school/pages/no-pass-no-drive.aspx"
+      },
+      {
+        "label": "Kentucky Transportation Cabinet: No Pass/No Drive Law",
+        "href": "https://drive.ky.gov/Drivers/Pages/No-Pass-No-Drive.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "carrying-a-concealed-weapon",
+    "title": "Carrying a concealed deadly weapon",
+    "category": "Crime and public safety",
+    "summary": "Who may carry a concealed firearm or other deadly weapon in Kentucky without a license, who may not, where carrying is restricted, and the offense.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky allows a person 21 or older who may lawfully possess a firearm to carry a concealed firearm or other deadly weapon without a license. Limits remain on who may carry and where."
+      },
+      { "type": "h2", "text": "Permitless carry and the optional license" },
+      {
+        "type": "p",
+        "text": "Permitless carry under KRS 237.109 is allowed in the same places a license holder may carry. Kentucky State Police still issue licenses under KRS 237.110. An applicant must pass a background check and complete firearms training, and a license lasts five years. A common reason to get one is travel, because other states may honor a Kentucky license under reciprocity agreements. Since July 15, 2026, the law also provides a provisional license, valid until age 21, for a person aged 18 to 20 who meets the other requirements."
+      },
+      {
+        "type": "p",
+        "text": "“Deadly weapon” covers more than guns. It includes knives other than an ordinary pocket knife or hunting knife, clubs, blackjacks, nunchaku and artificial knuckles."
+      },
+      { "type": "h2", "text": "Who may not possess firearms" },
+      {
+        "type": "ul",
+        "items": [
+          "A person convicted of a felony, unless pardoned or granted federal relief. Possession is a Class D felony, or a Class C felony if the firearm is a handgun.",
+          "A person under 18 may not possess a handgun, with exceptions such as hunting and target shooting.",
+          "Anyone barred by federal law."
+        ]
+      },
+      { "type": "h2", "text": "Places where carrying is restricted" },
+      {
+        "type": "p",
+        "text": "A license does not authorize carrying a concealed firearm into the following places, and permitless carry follows the same limits:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Police stations, sheriff’s offices, jails, prisons and detention facilities.",
+          "Courthouses used solely by the courts, courtrooms and court proceedings.",
+          "Meetings of a city, county or special district governing body, or of the General Assembly.",
+          "The part of a business mainly devoted to serving alcohol for drinking on site.",
+          "Elementary and secondary schools, child-caring facilities and day-care centers.",
+          "Secured areas of airports, and anywhere federal law prohibits firearms."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Having a weapon on school property is a Class D felony under KRS 527.070, with limited exceptions. Colleges may control weapons on their property. State and local governments may restrict concealed carry in the parts of buildings they own, lease or control if signs are posted. Private businesses may prohibit it too, and a person who ignores the rule can be told to leave."
+      },
+      { "type": "h2", "text": "The offense" },
+      {
+        "type": "p",
+        "text": "Carrying a concealed deadly weapon in violation of KRS 527.020 is a Class A misdemeanor, which carries up to 12 months in jail. It is a Class D felony for a person with a prior felony conviction involving a deadly weapon. The offense does not apply on real property you own or lease. A weapon in a factory-installed vehicle compartment, such as a glove box or console, is not treated as concealed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 237.109",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48601"
+      },
+      {
+        "label": "KRS 237.110",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56567"
+      },
+      {
+        "label": "KRS 237.118",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58056"
+      },
+      {
+        "label": "KRS 527.020",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55372"
+      },
+      {
+        "label": "KRS 527.040",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47958"
+      },
+      {
+        "label": "KRS 527.070",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48899"
+      }
+    ]
+  },
+  {
+    "slug": "fireworks",
+    "title": "Fireworks",
+    "category": "Crime and public safety",
+    "summary": "Which consumer fireworks are legal in Kentucky, the age and 200-foot rules, the role of local ordinances, and the penalties for violations.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Kentucky allows the retail sale and use of consumer fireworks. Only adults may buy them, the aerial and louder types have a distance rule, and cities and counties can add their own restrictions."
+      },
+      { "type": "h2", "text": "What is legal" },
+      {
+        "type": "p",
+        "text": "Consumer fireworks are the kinds made for use by the public that meet federal Consumer Product Safety Commission rules. KRS 227.702 puts them in three groups:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ground and hand-held sparkling devices, such as sparklers, fountains, wheels and ground spinners.",
+          "Aerial devices, such as bottle rockets, sky rockets, Roman candles, mines, shells and reloadable tube kits.",
+          "Audible ground devices, meaning small firecrackers and chasers."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Novelties such as snakes, smoke devices, party poppers and snappers are not classified as consumer fireworks and may be sold and used at any time. Display fireworks, the larger devices used in professional shows, may not be possessed or used without a permit for a supervised public display."
+      },
+      { "type": "h2", "text": "Age and distance rules" },
+      {
+        "type": "ul",
+        "items": [
+          "No person or business may sell or give consumer fireworks to anyone under 18.",
+          "A person must be at least 18 to use aerial devices or audible ground devices.",
+          "Those fireworks may not be ignited within 200 feet of any structure, vehicle or other person.",
+          "Their use must not violate a local ordinance."
+        ]
+      },
+      { "type": "h2", "text": "Local ordinances" },
+      {
+        "type": "p",
+        "text": "State law says that nothing in the fireworks statutes stops a local government from passing ordinances on the sale or use of fireworks within its boundaries. Local rules may limit the days and hours fireworks can be set off or the types that are allowed, and they vary from place to place. If you live inside a city in Campbell County, check with the city. Outside city limits, check with the county."
+      },
+      { "type": "h2", "text": "Penalties and enforcement" },
+      {
+        "type": "p",
+        "text": "A person who violates the fireworks statutes, or who knowingly induces someone else to violate them, can be fined up to $1,000, jailed for up to 30 days, or both. The state fire marshal, or a fire department acting for the fire marshal, can remove fireworks that are stored or held illegally, at the owner’s expense."
+      },
+      {
+        "type": "p",
+        "text": "Seasonal fireworks sellers, including stands and tents, must register with the state fire marshal and display the registration certificate at each site. Seasonal retailers are those selling between June 10 and July 7, between December 26 and January 4, or both."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 227.702",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39503"
+      },
+      {
+        "label": "KRS 227.704",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39504"
+      },
+      {
+        "label": "KRS 227.710",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39506"
+      },
+      {
+        "label": "KRS 227.715",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39507"
+      },
+      {
+        "label": "KRS 227.750",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39508"
+      },
+      {
+        "label": "KRS 227.990",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=10715"
+      }
+    ]
+  },
+  {
+    "slug": "criminal-littering",
+    "title": "Criminal littering",
+    "category": "Crime and public safety",
+    "summary": "What counts as criminal littering in Kentucky, including litter from vehicles and unsecured loads, the penalties, open dumping and how to report.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Criminal littering is a Class A misdemeanor in Kentucky. It covers litter left on public or private property, litter thrown from vehicles and boats, and waste put into public waters."
+      },
+      { "type": "h2", "text": "What the offense covers" },
+      {
+        "type": "p",
+        "text": "Under KRS 512.070, a person commits criminal littering by:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Knowingly placing or throwing litter on public or private property, or in public or private water, without permission.",
+          "Dropping, or allowing to drop, destructive or injurious material on a highway and not removing it right away.",
+          "Negligently placing glass or other dangerous sharp objects on or within 50 feet of a public highway, or on or next to water where the public swims or wades.",
+          "Discharging sewage, minerals, oil products or litter into public waters or lakes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Litter is defined broadly. It includes rubbish, waste material, paper, glass, cans, bottles, trash, debris or any foreign substance, whether or not it has value."
+      },
+      { "type": "h2", "text": "Vehicles, boats and loads" },
+      {
+        "type": "p",
+        "text": "When litter is thrown or dropped from a motor vehicle, the driver is presumed to be responsible unless the evidence shows otherwise. The same presumption applies to the operator of a motorboat or vessel. A separate traffic law requires vehicles to be built so their contents cannot escape. A load that could shift or spill must be covered if the vehicle travels more than one mile on a public highway."
+      },
+      { "type": "h2", "text": "Penalties and open dumping" },
+      {
+        "type": "p",
+        "text": "A Class A misdemeanor carries up to 12 months in jail and a fine of up to $500. A littering citation may be marked as prepayable to the circuit court clerk. A court may order a person convicted of a second or later littering offense to pick up litter for at least four hours. Local governments may choose by ordinance to treat littering as a civil offense, so the process can differ by city and county."
+      },
+      {
+        "type": "p",
+        "text": "Dumping waste is also covered by environmental law. KRS 224.40-100 prohibits disposing of waste anywhere other than a permitted site and prohibits open dumps. Violations carry civil penalties of up to $5,000, plus up to $5,000 for each day the violation continues, and the state can require cleanup. A knowing violation is a Class D felony."
+      },
+      { "type": "h2", "text": "How to report" },
+      {
+        "type": "p",
+        "text": "State police, sheriffs, city and county police and county solid waste coordinators all have a duty to enforce the littering laws. To report littering, contact local law enforcement with the location, time and a description. The Kentucky Division of Waste Management takes illegal dumping complaints, accepts anonymous reports and assigns each complaint to a field inspector. For an environmental emergency, the state’s 24-hour response line is 800-928-2380."
+      }
+    ],
+    "sources": [
+      {
+        "label": "KRS 512.070",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=41122"
+      },
+      {
+        "label": "KRS 433.753",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=18805"
+      },
+      {
+        "label": "KRS 189.150",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=6315"
+      },
+      {
+        "label": "KRS 224.40-100",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=51309"
+      },
+      {
+        "label": "KRS 224.99-010",
+        "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54029"
+      },
+      {
+        "label": "Kentucky Energy and Environment Cabinet: Illegal Dumping Complaints",
+        "href": "https://eec.ky.gov/Environmental-Protection/Waste/Pages/Illegal-Dumping-Complaints.aspx"
+      }
+    ]
+  }
+]

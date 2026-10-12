@@ -178,12 +178,9 @@ const groups: Group[] = [
       {
         q: "Where do I go about a traffic ticket, child support or guardianship?",
         a: [
-          "Those are handled by the Campbell County Attorney’s Office, which is separate from this one.",
+          "Those are handled by the Campbell County Attorney’s Office, which is separate from this one. The Services pages explain each one and give that office’s contact details.",
         ],
-        more: {
-          label: "Find the right office",
-          href: "/find-the-right-office",
-        },
+        more: { label: "Services", href: "/services" },
       },
     ],
   },

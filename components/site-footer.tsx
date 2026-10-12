@@ -3,6 +3,13 @@ import Link from "next/link";
 import { SealRings } from "@/components/seal-rings";
 import { nav, secondaryNav, site } from "@/lib/site";
 
+// "Contact" goes last, after the pages that have no place in the header.
+const footerLinks = [
+  ...nav.filter((item) => item.href !== "/#contact"),
+  ...secondaryNav,
+  ...nav.filter((item) => item.href === "/#contact"),
+];
+
 export function SiteFooter() {
   return (
     <footer className="on-dark relative isolate overflow-hidden bg-navy-950 text-silver-300">
@@ -64,7 +71,7 @@ export function SiteFooter() {
         <nav aria-label="Footer" className="md:col-span-3">
           <h2 className="eyebrow font-sans text-white">Site</h2>
           <ul className="mt-3 text-[0.9375rem] leading-7">
-            {[...nav, ...secondaryNav].map((item) => (
+            {footerLinks.map((item) => (
               <li key={item.href}>
                 <Link
                   href={item.href}

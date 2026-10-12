@@ -18,6 +18,7 @@ import {
 import { ButtonLink } from "@/components/button-link";
 import { SealRings } from "@/components/seal-rings";
 import { SectionHeading } from "@/components/section-heading";
+import { ServiceGrid } from "@/components/service-grid";
 import { TextLink } from "@/components/text-link";
 import {
   Card,
@@ -26,6 +27,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { caseSteps } from "@/lib/case-steps";
+import { services, trafficDiversion } from "@/lib/services";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -334,6 +336,29 @@ function CommonwealthsAttorney() {
   );
 }
 
+function Services() {
+  return (
+    <section
+      id="services"
+      aria-labelledby="services-heading"
+      className="bg-white py-18 md:py-24 lg:py-32"
+    >
+      <div className="container-site">
+        <SectionHeading
+          id="services-heading"
+          eyebrow="Services"
+          title="Find a service"
+          lead="What each service involves, what to bring and who to contact. Some are run by the Campbell County Attorney&rsquo;s Office, and each page says so."
+        />
+        <ServiceGrid
+          services={[...services, trafficDiversion]}
+          className="mt-12"
+        />
+      </div>
+    </section>
+  );
+}
+
 function Process() {
   return (
     <section
@@ -532,6 +557,7 @@ export default function Home() {
       <Tasks />
       <Office />
       <CommonwealthsAttorney />
+      <Services />
       <Process />
       <Victims />
       <Contact />

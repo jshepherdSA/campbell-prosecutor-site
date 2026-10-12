@@ -25,6 +25,8 @@ type Topic = {
   title: string;
   body: ReactNode;
   office: Office;
+  /** The page that covers this topic in full. */
+  more?: { label: string; href: string };
   links?: { label: string; href: string }[];
 };
 
@@ -68,9 +70,20 @@ const topics: Topic[] = [
       </>
     ),
     office: countyAttorney.criminal,
+    links: [
+      {
+        label: "Criminal complaint form (Word document)",
+        href: "https://www.campbellcountyattorney.com/s/Private-Complaint-Form.doc",
+      },
+      {
+        label: "Court process flow chart (PDF)",
+        href: "https://www.campbellcountyattorney.com/s/court-process-flow-chart.pdf",
+      },
+    ],
   },
   {
     id: "traffic-diversion",
+    more: { label: "Traffic diversion in full", href: "/traffic-diversion" },
     title: "Traffic ticket diversion (the CATS program)",
     body: (
       <>
@@ -94,6 +107,10 @@ const topics: Topic[] = [
   },
   {
     id: "bad-checks",
+    more: {
+      label: "The bad check program in full",
+      href: "/services/bad-check-program",
+    },
     title: "Bad checks",
     body: (
       <>
@@ -114,6 +131,7 @@ const topics: Topic[] = [
   },
   {
     id: "child-support",
+    more: { label: "Child support in full", href: "/services/child-support" },
     title: "Child support",
     body: (
       <>
@@ -139,6 +157,10 @@ const topics: Topic[] = [
   },
   {
     id: "delinquent-taxes",
+    more: {
+      label: "Delinquent taxes in full",
+      href: "/services/delinquent-tax-collection",
+    },
     title: "Delinquent property taxes",
     body: (
       <>
@@ -169,6 +191,7 @@ const topics: Topic[] = [
   },
   {
     id: "guardianship",
+    more: { label: "Guardianship in full", href: "/services/guardianships" },
     title: "Guardianship and conservatorship",
     body: (
       <>
@@ -200,6 +223,7 @@ const topics: Topic[] = [
   },
   {
     id: "caseys-law",
+    more: { label: "Casey’s Law in full", href: "/services/caseys-law" },
     title: "Casey’s Law: court-ordered treatment for addiction",
     body: (
       <>
@@ -227,6 +251,10 @@ const topics: Topic[] = [
   },
   {
     id: "involuntary-hospitalization",
+    more: {
+      label: "Involuntary treatment in full",
+      href: "/services/involuntary-treatment",
+    },
     title: "Involuntary hospitalization for mental illness",
     body: (
       <>
@@ -254,6 +282,7 @@ const topics: Topic[] = [
   },
   {
     id: "juvenile",
+    more: { label: "Juvenile court in full", href: "/services/juvenile-court" },
     title: "Juvenile court",
     body: (
       <>
@@ -275,6 +304,10 @@ const topics: Topic[] = [
   },
   {
     id: "county-government",
+    more: {
+      label: "The County Attorney’s role in full",
+      href: "/services/fiscal-court-advisor",
+    },
     title: "County government legal matters",
     body: (
       <>
@@ -413,7 +446,7 @@ export default function FindTheRightOfficePage() {
           </nav>
 
           <div className="mt-12 space-y-6">
-            {topics.map(({ id, title, body, office, links }) => (
+            {topics.map(({ id, title, body, office, more, links }) => (
               <article
                 key={id}
                 id={id}
@@ -430,13 +463,15 @@ export default function FindTheRightOfficePage() {
                   <div className="mt-4 space-y-4 text-base leading-[1.625rem]">
                     {body}
                   </div>
-                  {links ? (
+                  {more || links ? (
                     <ul className="mt-5 flex flex-wrap gap-x-8 gap-y-2 text-base leading-[1.625rem]">
-                      {links.map(({ label, href }) => (
-                        <li key={href}>
-                          <TextLink href={href}>{label}</TextLink>
-                        </li>
-                      ))}
+                      {[...(more ? [more] : []), ...(links ?? [])].map(
+                        ({ label, href }) => (
+                          <li key={href}>
+                            <TextLink href={href}>{label}</TextLink>
+                          </li>
+                        ),
+                      )}
                     </ul>
                   ) : null}
                 </div>

@@ -357,6 +357,12 @@ export const communityResources: ListingGroup[] = [
         href: "https://kcoj.kycourts.net/dockets/",
       },
       {
+        name: "District Court arraignment calendar",
+        description:
+          "Arraignment dates for misdemeanor and traffic cases, published by the County Attorney’s office.",
+        href: "https://www.campbellcountyattorney.com/arraignment-calendar",
+      },
+      {
         name: "Court forms",
         description:
           "Official forms from the Administrative Office of the Courts.",

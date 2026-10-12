@@ -29,21 +29,56 @@ export const site = {
   hours: null as string | null,
 } as const;
 
-export type NavItem = { label: string; href: string };
+export type NavItem = { label: string; href: string; children?: NavItem[] };
 
-/** Primary navigation. "The Office" and "Contact" are homepage sections. */
+/**
+ * Primary navigation. Items with `children` open a menu in the header and link
+ * to an index page that lists the same pages. "About" and "Contact" are
+ * homepage sections.
+ */
 export const nav: NavItem[] = [
-  { label: "The Office", href: "/#office" },
-  { label: "Prosecution", href: "/prosecution" },
-  { label: "Victims & Witnesses", href: "/victims" },
-  { label: "Resources", href: "/resources" },
-  { label: "FAQ", href: "/faq" },
+  { label: "About", href: "/#office" },
+  {
+    label: "Services",
+    href: "/services",
+    children: [
+      { label: "Prosecution", href: "/prosecution" },
+      { label: "Victim Assistance", href: "/victims" },
+      { label: "Bad Check Program", href: "/services/bad-check-program" },
+      { label: "Casey’s Law", href: "/services/caseys-law" },
+      { label: "Child Support", href: "/services/child-support" },
+      {
+        label: "Delinquent Tax Collection",
+        href: "/services/delinquent-tax-collection",
+      },
+      { label: "Fiscal Court Advisor", href: "/services/fiscal-court-advisor" },
+      { label: "Guardianships", href: "/services/guardianships" },
+      {
+        label: "Involuntary Treatment",
+        href: "/services/involuntary-treatment",
+      },
+      { label: "Juvenile Court", href: "/services/juvenile-court" },
+    ],
+  },
+  { label: "Traffic Diversion", href: "/traffic-diversion" },
+  { label: "News", href: "/news" },
+  {
+    label: "Resources",
+    href: "/resources",
+    children: [
+      { label: "Community Resources", href: "/resources" },
+      { label: "Help for Victims", href: "/victims/resources" },
+      { label: "Find the Right Office", href: "/find-the-right-office" },
+      { label: "Questions & Answers", href: "/faq" },
+      { label: "Open Records", href: "/open-records" },
+    ],
+  },
   { label: "Contact", href: "/#contact" },
 ];
 
-/** Pages linked from the footer and from other pages, but not the header. */
+/** Shown in the mobile menu and footer, where there are no drop-down menus. */
 export const secondaryNav: NavItem[] = [
-  { label: "Find the Right Office", href: "/find-the-right-office" },
-  { label: "Help for Victims", href: "/victims/resources" },
+  { label: "Victims & Witnesses", href: "/victims" },
+  { label: "Questions & Answers", href: "/faq" },
   { label: "Open Records", href: "/open-records" },
 ];

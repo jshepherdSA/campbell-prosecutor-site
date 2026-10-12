@@ -6,9 +6,9 @@ shown in chat at the homepage gate and again at final handoff.
 
 Status key: [x] done · [~] pending (builds after homepage approval) · [ ] manual
 
-**Status as of 2026-10-12: inner pages in progress.** The homepage and seven
-inner pages are built (see "Inner pages" below). The cookie banner, policy pages
-and standard site files have not been started.
+**Status as of 2026-10-12: inner pages built.** The homepage, the services, the
+resources and the article library are built (see "Inner pages" below). The
+cookie banner, policy pages and standard site files have not been started.
 
 ## Auto-built by the skill (verify these rendered)
 
@@ -50,39 +50,92 @@ placeholder to be left on a live legal page.
 
 ## Inner pages
 
-Built on 2026-10-12. The user asked for the resources and content of
-campbellcountyattorney.com, without Steve Franzen. That site belongs to the
-Campbell County Attorney, a separate office, so its services are not presented
-here as this office's own. All copy was written new; none was copied.
+The user asked for all the resources and content of campbellcountyattorney.com,
+without Steve Franzen. That site belongs to the Campbell County Attorney, a
+separate office. Its pages are mirrored here tab for tab. All copy was written
+new (the source is copyrighted, so none was copied), and each service page says
+which office runs the program and gives that office's contact details.
+
+About and core pages:
 
 - [x] `/prosecution` — felony classes, how a case moves, reporting, restitution
 - [x] `/victims` — victims' rights, what to expect, help, witnesses
 - [x] `/victims/resources` — hotlines and support organizations
 - [x] `/resources` — county, cities, law enforcement, courts, legal help
-- [x] `/find-the-right-office` — the County Attorney's services (traffic and
-      CATS, misdemeanors, child support, bad checks, delinquent taxes,
-      guardianship, Casey's Law, involuntary hospitalization, juvenile court),
-      each with who handles it and how to reach them
+- [x] `/find-the-right-office` — overview of which office handles what
 - [x] `/faq` — common questions, with FAQ structured data
 - [x] `/open-records` — how to request records from this office
-- [x] Each page checked: lint, type-check and production build pass; one
-      `<h1>`; headings in order; no horizontal scroll at 320, 390, 768 or
-      1024px; internal links resolve; no mention of Steve Franzen
 
-Not built, pending a decision from the user:
+Services (the source's "Services" and "Traffic Diversion" tabs):
 
-- [ ] **News / article library.** The source has about 75 legal-information
-      columns. They are copyrighted and credited to the County Attorney's
-      office, so they cannot be copied, and most cover topics outside a felony
-      prosecutor's work.
-- [ ] **Staff and attorney directory.** The source lists the County Attorney's
-      employees. This office's staff list has not been supplied.
-- [ ] **Arraignment calendar.** The source's calendar is for District Court
-      arraignments handled by the County Attorney.
+- [x] `/services` — index of all services, also shown on the homepage
+- [x] `/services/bad-check-program`
+- [x] `/services/caseys-law`
+- [x] `/services/child-support`
+- [x] `/services/delinquent-tax-collection`
+- [x] `/services/fiscal-court-advisor`
+- [x] `/services/guardianships`
+- [x] `/services/involuntary-treatment`
+- [x] `/services/juvenile-court`
+- [x] `/traffic-diversion` — the CATS program, with the registration link
 
-Phone numbers and links for other offices live in `lib/directory.ts`. They were
-checked against each organization's own website on 2026-10-12 and need
-re-checking before launch.
+News (the source's "News" tab):
+
+- [x] `/news` and `/news/[slug]` — a library of plain-language articles on
+      Kentucky law, covering the source's topics. Written new from the statutes
+      and official agency pages, each with its sources listed. Text is in
+      `content/articles/*.json`.
+
+Corrections made to the source's content, because it was out of date or wrong:
+
+- Bad checks: the felony threshold is $1,000 (the source says $500).
+- Juvenile court: abuse and neglect are decided on a preponderance of the
+  evidence (the source says clear and convincing).
+- The Women's Crisis Center is now the Ion Center; the Kentucky Coalition
+  Against Domestic Violence is now ZeroV; several city and agency web addresses
+  have changed.
+
+Not carried over:
+
+- **Staff and attorney directory.** The source lists the County Attorney's
+  employees, who do not work for this office. This office's staff list has not
+  been supplied.
+- **The officeholder's biography and quotes**, per the instruction not to
+  mention him.
+- **Forms hosted by the County Attorney** are linked, not copied.
+- A few dated posts (a 2020 census notice, a jobs notice, an audit notice).
+
+**Needs review before launch:**
+
+- [ ] A lawyer in the office should read every service page and every article.
+      They describe the law and another office's programs, fees and hours.
+- [ ] Read these articles first. Each covers law that changed recently, or
+      rests on the writer's reading of a statute:
+  - `dying-without-a-will` — the inheritance statutes were rewritten in July
+    2026 (the surviving spouse's share changed). Highest risk.
+  - `drinking-and-driving` — KRS Chapter 189A was amended in July 2026.
+  - `school-buses` — new fines and stop-arm cameras from July 2026.
+  - `carrying-a-concealed-weapon` — new provisions from July 2026.
+  - `compulsory-school-attendance` and `no-pass-no-drive` — amended in 2025
+    and 2026.
+  - `children-left-in-cars` — the child abuse statutes were amended in July 2026.
+  - `electronic-communication-crimes` — the stalking statutes were merged in
+    July 2026.
+  - `personal-injury-protection` and `voting` — both amended in July 2026.
+  - `fake-ids` — which forgery charge applies is the writer's reading.
+  - `landlords-and-tenants` — the list of cities that adopted the landlord
+    and tenant act comes from 2016 and is marked as dated.
+  - `pets-and-dogs` and `hunting-laws` — statutes amended in 2024 and 2026.
+  - `snow-and-ice`, `trees-and-bushes`, `golfer-liability`,
+    `liability-to-trespassers` and `swimming-pools` — these rest on court
+    decisions, some of them unsettled, and say so.
+  - `expungement` — a new version of the felony expungement statute takes
+    effect in April 2027.
+- [ ] Phone numbers, fees and links for other offices are in
+      `lib/directory.ts` and `lib/services.ts`. They were checked on 2026-10-12.
+- [ ] The header menu has not been checked in a browser since the drop-down
+      menus were added (the user asked for the browser not to be used). Check
+      that it fits on one line at 1280px wide and that the menus open.
 
 ## Needed from the client
 
@@ -111,7 +164,8 @@ placeholder):
       homepage text was drafted from the seal, the letter's name, title and
       address, and general descriptions of what a Kentucky Commonwealth's
       Attorney does. It all needs the office's sign-off.
-- [ ] Sign-off on the page list above, and on the three items not built
+- [ ] Sign-off on the page list above
+- [ ] This office's staff list, if a directory is wanted
 
 ## Notes for handoff
 
